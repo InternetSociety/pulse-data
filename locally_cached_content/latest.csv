@@ -1,1 +1,2414 @@
 country_code,country_name,source,destination,value
+AF,🇦🇫 Afghanistan,Akamai,External,48
+AF,🇦🇫 Afghanistan,Alibaba,External,1
+AF,🇦🇫 Afghanistan,Amazon,External,61
+AF,🇦🇫 Afghanistan,Bunnycdn,External,3
+AF,🇦🇫 Afghanistan,Chinanetcenter,External,1
+AF,🇦🇫 Afghanistan,Cloudflare,Regional,402
+AF,🇦🇫 Afghanistan,Fastly,External,18
+AF,🇦🇫 Afghanistan,Microsoft,External,11
+AF,🇦🇫 Afghanistan,Other,Local,22
+AF,🇦🇫 Afghanistan,Other,External,395
+AF,🇦🇫 Afghanistan,Reflectednetworks,External,21
+AX,🇦🇽 Åland Islands,Akamai,External,39
+AX,🇦🇽 Åland Islands,Amazon,External,112
+AX,🇦🇽 Åland Islands,Cdn77,External,3
+AX,🇦🇽 Åland Islands,Cloudflare,Regional,128
+AX,🇦🇽 Åland Islands,Facebook,External,6
+AX,🇦🇽 Åland Islands,Fastly,Regional,42
+AX,🇦🇽 Åland Islands,Microsoft,External,23
+AX,🇦🇽 Åland Islands,Other,Local,45
+AX,🇦🇽 Åland Islands,Other,External,159
+AX,🇦🇽 Åland Islands,Reflectednetworks,External,1
+AL,🇦🇱 Albania,Akamai,Local,59
+AL,🇦🇱 Albania,Alibaba,External,1
+AL,🇦🇱 Albania,Amazon,External,68
+AL,🇦🇱 Albania,Bunnycdn,External,2
+AL,🇦🇱 Albania,Cdn77,External,21
+AL,🇦🇱 Albania,Cloudflare,Local,46
+AL,🇦🇱 Albania,Cloudflare,Regional,204
+AL,🇦🇱 Albania,Cloudflare,External,276
+AL,🇦🇱 Albania,Facebook,External,9
+AL,🇦🇱 Albania,Fastly,Regional,5
+AL,🇦🇱 Albania,Fastly,External,23
+AL,🇦🇱 Albania,Microsoft,External,11
+AL,🇦🇱 Albania,Other,Local,30
+AL,🇦🇱 Albania,Other,External,229
+AL,🇦🇱 Albania,Reflectednetworks,External,14
+DZ,🇩🇿 Algeria,Akamai,External,45
+DZ,🇩🇿 Algeria,Alibaba,External,1
+DZ,🇩🇿 Algeria,Amazon,External,48
+DZ,🇩🇿 Algeria,Bunnycdn,External,3
+DZ,🇩🇿 Algeria,Cdn77,External,7
+DZ,🇩🇿 Algeria,Cloudflare,Local,479
+DZ,🇩🇿 Algeria,Facebook,External,12
+DZ,🇩🇿 Algeria,Fastly,External,17
+DZ,🇩🇿 Algeria,Microsoft,External,7
+DZ,🇩🇿 Algeria,Netflix,Local,1
+DZ,🇩🇿 Algeria,Other,Local,99
+DZ,🇩🇿 Algeria,Other,External,261
+DZ,🇩🇿 Algeria,Reflectednetworks,External,14
+AS,🇦🇸 American Samoa,Akamai,Local,81
+AS,🇦🇸 American Samoa,Amazon,External,80
+AS,🇦🇸 American Samoa,Bunnycdn,External,2
+AS,🇦🇸 American Samoa,Cdn77,External,6
+AS,🇦🇸 American Samoa,Cloudflare,External,235
+AS,🇦🇸 American Samoa,Facebook,External,11
+AS,🇦🇸 American Samoa,Fastly,External,48
+AS,🇦🇸 American Samoa,Microsoft,External,12
+AS,🇦🇸 American Samoa,Other,Local,1
+AS,🇦🇸 American Samoa,Other,External,16
+AS,🇦🇸 American Samoa,Reflectednetworks,External,6
+AD,🇦🇩 Andorra,Akamai,External,126
+AD,🇦🇩 Andorra,Amazon,External,148
+AD,🇦🇩 Andorra,Bunnycdn,External,3
+AD,🇦🇩 Andorra,Cdn77,External,18
+AD,🇦🇩 Andorra,Cloudflare,Regional,259
+AD,🇦🇩 Andorra,Facebook,External,9
+AD,🇦🇩 Andorra,Fastly,Regional,89
+AD,🇦🇩 Andorra,Microsoft,External,15
+AD,🇦🇩 Andorra,Other,Local,42
+AD,🇦🇩 Andorra,Other,External,277
+AD,🇦🇩 Andorra,Reflectednetworks,External,11
+AD,🇦🇩 Andorra,Wordpress,External,1
+AO,🇦🇴 Angola,Akamai,Local,51
+AO,🇦🇴 Angola,Alibaba,External,6
+AO,🇦🇴 Angola,Amazon,External,70
+AO,🇦🇴 Angola,Bunnycdn,External,7
+AO,🇦🇴 Angola,Cdn77,External,9
+AO,🇦🇴 Angola,Cloudflare,External,447
+AO,🇦🇴 Angola,Fastly,Regional,26
+AO,🇦🇴 Angola,Microsoft,Local,9
+AO,🇦🇴 Angola,Other,Local,73
+AO,🇦🇴 Angola,Other,External,283
+AO,🇦🇴 Angola,Reflectednetworks,External,8
+AI,🇦🇮 Anguilla,Other,Local,3
+AI,🇦🇮 Anguilla,Other,External,402
+AG,🇦🇬 Antigua and Barbuda,Akamai,External,140
+AG,🇦🇬 Antigua and Barbuda,Alibaba,External,1
+AG,🇦🇬 Antigua and Barbuda,Amazon,External,147
+AG,🇦🇬 Antigua and Barbuda,Bunnycdn,External,3
+AG,🇦🇬 Antigua and Barbuda,Cdn77,External,8
+AG,🇦🇬 Antigua and Barbuda,Cloudflare,External,347
+AG,🇦🇬 Antigua and Barbuda,Facebook,External,8
+AG,🇦🇬 Antigua and Barbuda,Fastly,External,63
+AG,🇦🇬 Antigua and Barbuda,Microsoft,External,21
+AG,🇦🇬 Antigua and Barbuda,Other,Local,6
+AG,🇦🇬 Antigua and Barbuda,Other,External,240
+AG,🇦🇬 Antigua and Barbuda,Reflectednetworks,External,9
+AR,🇦🇷 Argentina,Akamai,Local,54
+AR,🇦🇷 Argentina,Alibaba,External,1
+AR,🇦🇷 Argentina,Amazon,External,160
+AR,🇦🇷 Argentina,Bunnycdn,External,3
+AR,🇦🇷 Argentina,Cdn77,External,5
+AR,🇦🇷 Argentina,Cloudflare,Local,382
+AR,🇦🇷 Argentina,Facebook,External,10
+AR,🇦🇷 Argentina,Fastly,Local,33
+AR,🇦🇷 Argentina,Microsoft,Local,21
+AR,🇦🇷 Argentina,Other,Local,182
+AR,🇦🇷 Argentina,Other,External,136
+AR,🇦🇷 Argentina,Reflectednetworks,External,4
+AM,🇦🇲 Armenia,Akamai,Local,42
+AM,🇦🇲 Armenia,Alibaba,External,1
+AM,🇦🇲 Armenia,Amazon,External,41
+AM,🇦🇲 Armenia,Bunnycdn,External,2
+AM,🇦🇲 Armenia,Cdn77,External,5
+AM,🇦🇲 Armenia,Cloudflare,Local,350
+AM,🇦🇲 Armenia,Cloudflare,External,22
+AM,🇦🇲 Armenia,Facebook,External,9
+AM,🇦🇲 Armenia,Fastly,External,13
+AM,🇦🇲 Armenia,Microsoft,External,6
+AM,🇦🇲 Armenia,Other,Local,122
+AM,🇦🇲 Armenia,Other,External,380
+AM,🇦🇲 Armenia,Reflectednetworks,External,5
+AW,🇦🇼 Aruba,Akamai,External,151
+AW,🇦🇼 Aruba,Amazon,External,135
+AW,🇦🇼 Aruba,Bunnycdn,External,4
+AW,🇦🇼 Aruba,Cdn77,External,6
+AW,🇦🇼 Aruba,Cloudflare,External,309
+AW,🇦🇼 Aruba,Facebook,External,9
+AW,🇦🇼 Aruba,Fastly,External,63
+AW,🇦🇼 Aruba,Microsoft,External,16
+AW,🇦🇼 Aruba,Other,Local,22
+AW,🇦🇼 Aruba,Other,External,269
+AW,🇦🇼 Aruba,Reflectednetworks,External,11
+AU,🇦🇺 Australia,Akamai,Local,160
+AU,🇦🇺 Australia,Amazon,Local,223
+AU,🇦🇺 Australia,Bunnycdn,Local,1
+AU,🇦🇺 Australia,Cdn77,Local,2
+AU,🇦🇺 Australia,Cloudflare,Local,315
+AU,🇦🇺 Australia,Facebook,External,8
+AU,🇦🇺 Australia,Fastly,Local,53
+AU,🇦🇺 Australia,Fastly,External,13
+AU,🇦🇺 Australia,Microsoft,Local,36
+AU,🇦🇺 Australia,Other,Local,58
+AU,🇦🇺 Australia,Other,External,122
+AU,🇦🇺 Australia,Reflectednetworks,Local,2
+AU,🇦🇺 Australia,Reflectednetworks,External,3
+AT,🇦🇹 Austria,Akamai,Local,101
+AT,🇦🇹 Austria,Amazon,Regional,94
+AT,🇦🇹 Austria,Bunnycdn,Regional,2
+AT,🇦🇹 Austria,Cdn77,Regional,5
+AT,🇦🇹 Austria,Cloudflare,Local,270
+AT,🇦🇹 Austria,Cloudflare,Regional,7
+AT,🇦🇹 Austria,Facebook,External,5
+AT,🇦🇹 Austria,Fastly,Local,25
+AT,🇦🇹 Austria,Microsoft,Local,22
+AT,🇦🇹 Austria,Other,Local,183
+AT,🇦🇹 Austria,Other,External,274
+AT,🇦🇹 Austria,Reflectednetworks,Regional,6
+AT,🇦🇹 Austria,Reflectednetworks,External,3
+AT,🇦🇹 Austria,Wordpress,Local,1
+AZ,🇦🇿 Azerbaijan,Akamai,Local,21
+AZ,🇦🇿 Azerbaijan,Alibaba,External,1
+AZ,🇦🇿 Azerbaijan,Amazon,External,28
+AZ,🇦🇿 Azerbaijan,Bunnycdn,External,2
+AZ,🇦🇿 Azerbaijan,Cdn77,External,3
+AZ,🇦🇿 Azerbaijan,Cloudflare,Local,401
+AZ,🇦🇿 Azerbaijan,Cloudflare,External,123
+AZ,🇦🇿 Azerbaijan,Facebook,External,7
+AZ,🇦🇿 Azerbaijan,Fastly,External,8
+AZ,🇦🇿 Azerbaijan,Medianova,External,1
+AZ,🇦🇿 Azerbaijan,Microsoft,External,4
+AZ,🇦🇿 Azerbaijan,Other,Local,68
+AZ,🇦🇿 Azerbaijan,Other,External,176
+AZ,🇦🇿 Azerbaijan,Reflectednetworks,External,13
+BS,🇧🇸 Bahamas (The),Akamai,Local,132
+BS,🇧🇸 Bahamas (The),Alibaba,External,1
+BS,🇧🇸 Bahamas (The),Amazon,External,128
+BS,🇧🇸 Bahamas (The),Bunnycdn,External,4
+BS,🇧🇸 Bahamas (The),Cdn77,External,7
+BS,🇧🇸 Bahamas (The),Cloudflare,External,358
+BS,🇧🇸 Bahamas (The),Facebook,External,9
+BS,🇧🇸 Bahamas (The),Fastly,External,55
+BS,🇧🇸 Bahamas (The),Microsoft,External,22
+BS,🇧🇸 Bahamas (The),Other,Local,46
+BS,🇧🇸 Bahamas (The),Other,External,215
+BS,🇧🇸 Bahamas (The),Reflectednetworks,External,10
+BH,🇧🇭 Bahrain,Akamai,Local,65
+BH,🇧🇭 Bahrain,Alibaba,External,2
+BH,🇧🇭 Bahrain,Amazon,External,112
+BH,🇧🇭 Bahrain,Bunnycdn,External,3
+BH,🇧🇭 Bahrain,Cdn77,External,6
+BH,🇧🇭 Bahrain,Cloudflare,Local,424
+BH,🇧🇭 Bahrain,Cloudflare,Regional,136
+BH,🇧🇭 Bahrain,Facebook,External,7
+BH,🇧🇭 Bahrain,Fastly,Regional,17
+BH,🇧🇭 Bahrain,Microsoft,External,19
+BH,🇧🇭 Bahrain,Other,Local,5
+BH,🇧🇭 Bahrain,Other,External,189
+BH,🇧🇭 Bahrain,Reflectednetworks,External,8
+BD,🇧🇩 Bangladesh,Akamai,Local,28
+BD,🇧🇩 Bangladesh,Alibaba,External,14
+BD,🇧🇩 Bangladesh,Amazon,External,61
+BD,🇧🇩 Bangladesh,Bunnycdn,External,1
+BD,🇧🇩 Bangladesh,Cdn77,External,7
+BD,🇧🇩 Bangladesh,Cloudflare,Local,559
+BD,🇧🇩 Bangladesh,Facebook,External,10
+BD,🇧🇩 Bangladesh,Fastly,Regional,13
+BD,🇧🇩 Bangladesh,Fastly,External,1
+BD,🇧🇩 Bangladesh,Microsoft,External,6
+BD,🇧🇩 Bangladesh,Other,Local,88
+BD,🇧🇩 Bangladesh,Other,External,194
+BD,🇧🇩 Bangladesh,Reflectednetworks,External,5
+BB,🇧🇧 Barbados,Akamai,Local,120
+BB,🇧🇧 Barbados,Alibaba,External,1
+BB,🇧🇧 Barbados,Amazon,External,133
+BB,🇧🇧 Barbados,Bunnycdn,External,4
+BB,🇧🇧 Barbados,Cdn77,External,7
+BB,🇧🇧 Barbados,Cloudflare,Local,107
+BB,🇧🇧 Barbados,Cloudflare,External,278
+BB,🇧🇧 Barbados,Facebook,External,9
+BB,🇧🇧 Barbados,Fastly,External,44
+BB,🇧🇧 Barbados,Microsoft,External,18
+BB,🇧🇧 Barbados,Other,Local,16
+BB,🇧🇧 Barbados,Other,External,249
+BB,🇧🇧 Barbados,Reflectednetworks,External,10
+BY,🇧🇾 Belarus,Other,Local,345
+BY,🇧🇾 Belarus,Other,External,655
+BE,🇧🇪 Belgium,Akamai,Local,153
+BE,🇧🇪 Belgium,Amazon,Regional,123
+BE,🇧🇪 Belgium,Bunnycdn,Regional,2
+BE,🇧🇪 Belgium,Cdn77,Regional,1
+BE,🇧🇪 Belgium,Cdn77,External,2
+BE,🇧🇪 Belgium,Cloudflare,Local,275
+BE,🇧🇪 Belgium,Facebook,External,6
+BE,🇧🇪 Belgium,Fastly,Local,42
+BE,🇧🇪 Belgium,Microsoft,Local,34
+BE,🇧🇪 Belgium,Other,Local,141
+BE,🇧🇪 Belgium,Other,External,204
+BE,🇧🇪 Belgium,Reflectednetworks,Regional,11
+BZ,🇧🇿 Belize,Akamai,Local,83
+BZ,🇧🇿 Belize,Alibaba,External,1
+BZ,🇧🇿 Belize,Amazon,External,111
+BZ,🇧🇿 Belize,Bunnycdn,External,6
+BZ,🇧🇿 Belize,Cdn77,External,7
+BZ,🇧🇿 Belize,Cloudflare,External,399
+BZ,🇧🇿 Belize,Facebook,External,11
+BZ,🇧🇿 Belize,Fastly,External,43
+BZ,🇧🇿 Belize,Microsoft,External,29
+BZ,🇧🇿 Belize,Other,Local,33
+BZ,🇧🇿 Belize,Other,External,255
+BZ,🇧🇿 Belize,Reflectednetworks,External,14
+BJ,🇧🇯 Benin,Other,Local,53
+BJ,🇧🇯 Benin,Other,External,930
+BM,🇧🇲 Bermuda,Akamai,External,139
+BM,🇧🇲 Bermuda,Alibaba,External,1
+BM,🇧🇲 Bermuda,Amazon,Regional,188
+BM,🇧🇲 Bermuda,Bunnycdn,Regional,2
+BM,🇧🇲 Bermuda,Cdn77,Regional,4
+BM,🇧🇲 Bermuda,Cloudflare,Regional,298
+BM,🇧🇲 Bermuda,Facebook,External,8
+BM,🇧🇲 Bermuda,Fastly,Regional,80
+BM,🇧🇲 Bermuda,Microsoft,External,31
+BM,🇧🇲 Bermuda,Netflix,Local,1
+BM,🇧🇲 Bermuda,Other,Local,10
+BM,🇧🇲 Bermuda,Other,External,226
+BM,🇧🇲 Bermuda,Reflectednetworks,Regional,6
+BT,🇧🇹 Bhutan,Akamai,Local,55
+BT,🇧🇹 Bhutan,Amazon,External,89
+BT,🇧🇹 Bhutan,Bunnycdn,External,2
+BT,🇧🇹 Bhutan,Cdn77,External,9
+BT,🇧🇹 Bhutan,Cloudflare,Local,31
+BT,🇧🇹 Bhutan,Cloudflare,Regional,367
+BT,🇧🇹 Bhutan,Facebook,External,8
+BT,🇧🇹 Bhutan,Fastly,External,20
+BT,🇧🇹 Bhutan,Microsoft,External,12
+BT,🇧🇹 Bhutan,Other,Local,182
+BT,🇧🇹 Bhutan,Other,External,213
+BT,🇧🇹 Bhutan,Reflectednetworks,External,8
+BO,🇧🇴 Bolivia,Akamai,Local,51
+BO,🇧🇴 Bolivia,Alibaba,External,1
+BO,🇧🇴 Bolivia,Amazon,External,108
+BO,🇧🇴 Bolivia,Bunnycdn,External,4
+BO,🇧🇴 Bolivia,Cdn77,External,9
+BO,🇧🇴 Bolivia,Cloudflare,Local,209
+BO,🇧🇴 Bolivia,Cloudflare,Regional,200
+BO,🇧🇴 Bolivia,Facebook,External,9
+BO,🇧🇴 Bolivia,Fastly,Regional,31
+BO,🇧🇴 Bolivia,Microsoft,External,14
+BO,🇧🇴 Bolivia,Other,Local,126
+BO,🇧🇴 Bolivia,Other,External,217
+BO,🇧🇴 Bolivia,Reflectednetworks,External,8
+BQ,"🇧🇶 Bonaire, Sint Eustatius and Saba",Akamai,External,163
+BQ,"🇧🇶 Bonaire, Sint Eustatius and Saba",Amazon,External,125
+BQ,"🇧🇶 Bonaire, Sint Eustatius and Saba",Bunnycdn,External,2
+BQ,"🇧🇶 Bonaire, Sint Eustatius and Saba",Cdn77,External,7
+BQ,"🇧🇶 Bonaire, Sint Eustatius and Saba",Cloudflare,External,280
+BQ,"🇧🇶 Bonaire, Sint Eustatius and Saba",Facebook,External,8
+BQ,"🇧🇶 Bonaire, Sint Eustatius and Saba",Fastly,External,62
+BQ,"🇧🇶 Bonaire, Sint Eustatius and Saba",Microsoft,External,29
+BQ,"🇧🇶 Bonaire, Sint Eustatius and Saba",Other,Local,2
+BQ,"🇧🇶 Bonaire, Sint Eustatius and Saba",Other,External,308
+BQ,"🇧🇶 Bonaire, Sint Eustatius and Saba",Reflectednetworks,External,5
+BA,🇧🇦 Bosnia and Herzegovina,Akamai,External,41
+BA,🇧🇦 Bosnia and Herzegovina,Amazon,External,43
+BA,🇧🇦 Bosnia and Herzegovina,Bunnycdn,External,3
+BA,🇧🇦 Bosnia and Herzegovina,Cdn77,External,16
+BA,🇧🇦 Bosnia and Herzegovina,Cloudflare,Regional,210
+BA,🇧🇦 Bosnia and Herzegovina,Cloudflare,External,229
+BA,🇧🇦 Bosnia and Herzegovina,Facebook,External,4
+BA,🇧🇦 Bosnia and Herzegovina,Fastly,External,16
+BA,🇧🇦 Bosnia and Herzegovina,Microsoft,External,11
+BA,🇧🇦 Bosnia and Herzegovina,Other,Local,96
+BA,🇧🇦 Bosnia and Herzegovina,Other,External,321
+BA,🇧🇦 Bosnia and Herzegovina,Reflectednetworks,External,7
+BW,🇧🇼 Botswana,Akamai,Local,50
+BW,🇧🇼 Botswana,Alibaba,External,3
+BW,🇧🇼 Botswana,Amazon,External,125
+BW,🇧🇼 Botswana,Bunnycdn,External,3
+BW,🇧🇼 Botswana,Cdn77,External,6
+BW,🇧🇼 Botswana,Cloudflare,Local,375
+BW,🇧🇼 Botswana,Cloudflare,Regional,75
+BW,🇧🇼 Botswana,Facebook,External,9
+BW,🇧🇼 Botswana,Fastly,Regional,17
+BW,🇧🇼 Botswana,Fastly,External,12
+BW,🇧🇼 Botswana,Microsoft,External,27
+BW,🇧🇼 Botswana,Other,Local,53
+BW,🇧🇼 Botswana,Other,External,229
+BW,🇧🇼 Botswana,Reflectednetworks,External,4
+BR,🇧🇷 Brazil,Akamai,Local,89
+BR,🇧🇷 Brazil,Amazon,Local,60
+BR,🇧🇷 Brazil,Amazon,External,84
+BR,🇧🇷 Brazil,Bunnycdn,Local,3
+BR,🇧🇷 Brazil,Bunnycdn,External,3
+BR,🇧🇷 Brazil,Cdn77,Local,2
+BR,🇧🇷 Brazil,Cdn77,External,4
+BR,🇧🇷 Brazil,Cloudflare,Local,385
+BR,🇧🇷 Brazil,Facebook,External,9
+BR,🇧🇷 Brazil,Fastly,Local,23
+BR,🇧🇷 Brazil,Microsoft,Local,24
+BR,🇧🇷 Brazil,Other,Local,185
+BR,🇧🇷 Brazil,Other,External,122
+BR,🇧🇷 Brazil,Reflectednetworks,External,4
+BN,🇧🇳 Brunei,Other,Local,45
+BN,🇧🇳 Brunei,Other,External,946
+BG,🇧🇬 Bulgaria,Akamai,Local,49
+BG,🇧🇬 Bulgaria,Amazon,External,46
+BG,🇧🇬 Bulgaria,Bunnycdn,External,2
+BG,🇧🇬 Bulgaria,Cdn77,External,3
+BG,🇧🇬 Bulgaria,Cloudflare,Local,439
+BG,🇧🇬 Bulgaria,Facebook,External,6
+BG,🇧🇬 Bulgaria,Fastly,Local,15
+BG,🇧🇬 Bulgaria,Microsoft,Local,8
+BG,🇧🇬 Bulgaria,Other,Local,266
+BG,🇧🇬 Bulgaria,Other,External,156
+BG,🇧🇬 Bulgaria,Reflectednetworks,External,8
+BF,🇧🇫 Burkina Faso,Akamai,External,44
+BF,🇧🇫 Burkina Faso,Alibaba,Local,1
+BF,🇧🇫 Burkina Faso,Alibaba,External,3
+BF,🇧🇫 Burkina Faso,Amazon,External,74
+BF,🇧🇫 Burkina Faso,Bunnycdn,External,3
+BF,🇧🇫 Burkina Faso,Cdn77,External,6
+BF,🇧🇫 Burkina Faso,Cloudflare,Local,214
+BF,🇧🇫 Burkina Faso,Cloudflare,Regional,43
+BF,🇧🇫 Burkina Faso,Facebook,External,12
+BF,🇧🇫 Burkina Faso,Fastly,Regional,5
+BF,🇧🇫 Burkina Faso,Fastly,External,28
+BF,🇧🇫 Burkina Faso,Microsoft,External,11
+BF,🇧🇫 Burkina Faso,Other,Local,33
+BF,🇧🇫 Burkina Faso,Other,External,490
+BF,🇧🇫 Burkina Faso,Reflectednetworks,External,6
+BI,🇧🇮 Burundi,Other,Local,34
+BI,🇧🇮 Burundi,Other,External,948
+CV,🇨🇻 Cabo Verde,Akamai,External,96
+CV,🇨🇻 Cabo Verde,Amazon,External,110
+CV,🇨🇻 Cabo Verde,Bunnycdn,External,9
+CV,🇨🇻 Cabo Verde,Cdn77,External,9
+CV,🇨🇻 Cabo Verde,Cloudflare,External,342
+CV,🇨🇻 Cabo Verde,Facebook,External,10
+CV,🇨🇻 Cabo Verde,Fastly,External,50
+CV,🇨🇻 Cabo Verde,Microsoft,External,28
+CV,🇨🇻 Cabo Verde,Other,Local,44
+CV,🇨🇻 Cabo Verde,Other,External,283
+CV,🇨🇻 Cabo Verde,Reflectednetworks,External,11
+CV,🇨🇻 Cabo Verde,Wordpress,External,2
+KH,🇰🇭 Cambodia,Akamai,Local,48
+KH,🇰🇭 Cambodia,Alibaba,External,28
+KH,🇰🇭 Cambodia,Amazon,Regional,82
+KH,🇰🇭 Cambodia,Bunnycdn,Regional,2
+KH,🇰🇭 Cambodia,Cdn77,Regional,11
+KH,🇰🇭 Cambodia,Cloudflare,Regional,216
+KH,🇰🇭 Cambodia,Cloudflare,External,332
+KH,🇰🇭 Cambodia,Facebook,External,10
+KH,🇰🇭 Cambodia,Fastly,Regional,22
+KH,🇰🇭 Cambodia,Microsoft,External,8
+KH,🇰🇭 Cambodia,Other,Local,25
+KH,🇰🇭 Cambodia,Other,External,203
+KH,🇰🇭 Cambodia,Reflectednetworks,Regional,8
+CM,🇨🇲 Cameroon,Akamai,Local,72
+CM,🇨🇲 Cameroon,Alibaba,External,4
+CM,🇨🇲 Cameroon,Amazon,External,112
+CM,🇨🇲 Cameroon,Bunnycdn,External,3
+CM,🇨🇲 Cameroon,Cdn77,External,8
+CM,🇨🇲 Cameroon,Cloudflare,Regional,232
+CM,🇨🇲 Cameroon,Cloudflare,External,154
+CM,🇨🇲 Cameroon,Facebook,External,11
+CM,🇨🇲 Cameroon,Fastly,External,29
+CM,🇨🇲 Cameroon,Microsoft,External,11
+CM,🇨🇲 Cameroon,Other,Local,49
+CM,🇨🇲 Cameroon,Other,External,295
+CM,🇨🇲 Cameroon,Reflectednetworks,External,9
+CA,🇨🇦 Canada,Akamai,Local,175
+CA,🇨🇦 Canada,Amazon,Local,154
+CA,🇨🇦 Canada,Bunnycdn,Local,2
+CA,🇨🇦 Canada,Cdn77,External,3
+CA,🇨🇦 Canada,Cloudflare,Local,310
+CA,🇨🇦 Canada,Cloudflare,Regional,35
+CA,🇨🇦 Canada,Facebook,External,8
+CA,🇨🇦 Canada,Fastly,Local,54
+CA,🇨🇦 Canada,Microsoft,Local,25
+CA,🇨🇦 Canada,Other,Local,76
+CA,🇨🇦 Canada,Other,External,149
+CA,🇨🇦 Canada,Reflectednetworks,Regional,8
+KY,🇰🇾 Cayman Islands,Akamai,External,163
+KY,🇰🇾 Cayman Islands,Alibaba,External,2
+KY,🇰🇾 Cayman Islands,Amazon,External,151
+KY,🇰🇾 Cayman Islands,Bunnycdn,External,2
+KY,🇰🇾 Cayman Islands,Cdn77,External,7
+KY,🇰🇾 Cayman Islands,Cloudflare,External,303
+KY,🇰🇾 Cayman Islands,Facebook,External,9
+KY,🇰🇾 Cayman Islands,Fastly,External,60
+KY,🇰🇾 Cayman Islands,Microsoft,External,29
+KY,🇰🇾 Cayman Islands,Other,Local,18
+KY,🇰🇾 Cayman Islands,Other,External,245
+KY,🇰🇾 Cayman Islands,Reflectednetworks,External,6
+CF,🇨🇫 Central African Republic,Other,Local,2
+CF,🇨🇫 Central African Republic,Other,External,986
+TD,🇹🇩 Chad,Akamai,External,47
+TD,🇹🇩 Chad,Alibaba,External,1
+TD,🇹🇩 Chad,Amazon,External,60
+TD,🇹🇩 Chad,Bunnycdn,External,3
+TD,🇹🇩 Chad,Cdn77,External,9
+TD,🇹🇩 Chad,Chinanetcenter,External,1
+TD,🇹🇩 Chad,Cloudflare,External,333
+TD,🇹🇩 Chad,Facebook,External,8
+TD,🇹🇩 Chad,Fastly,External,26
+TD,🇹🇩 Chad,Microsoft,External,14
+TD,🇹🇩 Chad,Other,Local,4
+TD,🇹🇩 Chad,Other,External,465
+TD,🇹🇩 Chad,Reflectednetworks,External,11
+CL,🇨🇱 Chile,Akamai,Local,69
+CL,🇨🇱 Chile,Amazon,External,164
+CL,🇨🇱 Chile,Bunnycdn,External,2
+CL,🇨🇱 Chile,Cdn77,External,5
+CL,🇨🇱 Chile,Cloudflare,Local,365
+CL,🇨🇱 Chile,Facebook,External,9
+CL,🇨🇱 Chile,Fastly,Local,50
+CL,🇨🇱 Chile,Gcore,External,1
+CL,🇨🇱 Chile,Microsoft,Local,29
+CL,🇨🇱 Chile,Other,Local,150
+CL,🇨🇱 Chile,Other,External,144
+CL,🇨🇱 Chile,Reflectednetworks,External,4
+CN,🇨🇳 China,Akamai,Local,55
+CN,🇨🇳 China,Alibaba,External,99
+CN,🇨🇳 China,Amazon,External,59
+CN,🇨🇳 China,Bunnycdn,External,3
+CN,🇨🇳 China,Cdn77,External,4
+CN,🇨🇳 China,Chinanetcenter,External,1
+CN,🇨🇳 China,Cloudflare,External,384
+CN,🇨🇳 China,Fastly,Regional,3
+CN,🇨🇳 China,Fastly,External,17
+CN,🇨🇳 China,Microsoft,External,14
+CN,🇨🇳 China,Other,Local,1
+CN,🇨🇳 China,Other,External,2
+CN,🇨🇳 China,Reflectednetworks,External,6
+CO,🇨🇴 Colombia,Akamai,Local,83
+CO,🇨🇴 Colombia,Alibaba,External,1
+CO,🇨🇴 Colombia,Amazon,External,175
+CO,🇨🇴 Colombia,Bunnycdn,External,2
+CO,🇨🇴 Colombia,Cdn77,External,6
+CO,🇨🇴 Colombia,Cloudflare,Local,255
+CO,🇨🇴 Colombia,Cloudflare,External,4
+CO,🇨🇴 Colombia,Facebook,External,10
+CO,🇨🇴 Colombia,Fastly,Local,40
+CO,🇨🇴 Colombia,Microsoft,Local,67
+CO,🇨🇴 Colombia,Netflix,Local,1
+CO,🇨🇴 Colombia,Other,Local,112
+CO,🇨🇴 Colombia,Other,External,229
+CO,🇨🇴 Colombia,Reflectednetworks,External,7
+KM,🇰🇲 Comoros,Other,Local,0
+KM,🇰🇲 Comoros,Other,External,205
+CG,🇨🇬 Congo,Akamai,External,85
+CG,🇨🇬 Congo,Alibaba,Local,1
+CG,🇨🇬 Congo,Alibaba,External,1
+CG,🇨🇬 Congo,Amazon,External,75
+CG,🇨🇬 Congo,Bunnycdn,External,3
+CG,🇨🇬 Congo,Cdn77,External,9
+CG,🇨🇬 Congo,Cloudflare,Regional,487
+CG,🇨🇬 Congo,Facebook,External,10
+CG,🇨🇬 Congo,Fastly,Regional,25
+CG,🇨🇬 Congo,Microsoft,External,16
+CG,🇨🇬 Congo,Other,Local,0
+CG,🇨🇬 Congo,Other,External,267
+CG,🇨🇬 Congo,Reflectednetworks,External,10
+CK,🇨🇰 Cook Islands,Akamai,External,56
+CK,🇨🇰 Cook Islands,Amazon,External,82
+CK,🇨🇰 Cook Islands,Bunnycdn,External,1
+CK,🇨🇰 Cook Islands,Cdn77,External,5
+CK,🇨🇰 Cook Islands,Cloudflare,External,160
+CK,🇨🇰 Cook Islands,Facebook,External,5
+CK,🇨🇰 Cook Islands,Fastly,External,36
+CK,🇨🇰 Cook Islands,Microsoft,External,14
+CK,🇨🇰 Cook Islands,Other,Local,7
+CK,🇨🇰 Cook Islands,Other,External,130
+CK,🇨🇰 Cook Islands,Reflectednetworks,External,5
+CR,🇨🇷 Costa Rica,Akamai,Local,75
+CR,🇨🇷 Costa Rica,Amazon,External,128
+CR,🇨🇷 Costa Rica,Bunnycdn,External,4
+CR,🇨🇷 Costa Rica,Cdn77,External,7
+CR,🇨🇷 Costa Rica,Cloudflare,Local,178
+CR,🇨🇷 Costa Rica,Cloudflare,External,183
+CR,🇨🇷 Costa Rica,Facebook,External,9
+CR,🇨🇷 Costa Rica,Fastly,External,45
+CR,🇨🇷 Costa Rica,Microsoft,External,57
+CR,🇨🇷 Costa Rica,Other,Local,94
+CR,🇨🇷 Costa Rica,Other,External,208
+CR,🇨🇷 Costa Rica,Reflectednetworks,External,7
+CI,🇨🇮 Côte d'Ivoire,Akamai,External,73
+CI,🇨🇮 Côte d'Ivoire,Alibaba,External,4
+CI,🇨🇮 Côte d'Ivoire,Amazon,External,107
+CI,🇨🇮 Côte d'Ivoire,Bunnycdn,External,3
+CI,🇨🇮 Côte d'Ivoire,Cdn77,External,7
+CI,🇨🇮 Côte d'Ivoire,Chinanetcenter,External,1
+CI,🇨🇮 Côte d'Ivoire,Cloudflare,Local,273
+CI,🇨🇮 Côte d'Ivoire,Cloudflare,External,106
+CI,🇨🇮 Côte d'Ivoire,Facebook,External,12
+CI,🇨🇮 Côte d'Ivoire,Fastly,External,26
+CI,🇨🇮 Côte d'Ivoire,Microsoft,External,14
+CI,🇨🇮 Côte d'Ivoire,Other,Local,38
+CI,🇨🇮 Côte d'Ivoire,Other,External,319
+CI,🇨🇮 Côte d'Ivoire,Reflectednetworks,External,6
+HR,🇭🇷 Croatia,Akamai,Local,55
+HR,🇭🇷 Croatia,Alibaba,External,1
+HR,🇭🇷 Croatia,Amazon,Regional,10
+HR,🇭🇷 Croatia,Amazon,External,50
+HR,🇭🇷 Croatia,Bunnycdn,External,2
+HR,🇭🇷 Croatia,Cdn77,External,8
+HR,🇭🇷 Croatia,Cloudflare,Local,199
+HR,🇭🇷 Croatia,Cloudflare,External,206
+HR,🇭🇷 Croatia,Facebook,External,6
+HR,🇭🇷 Croatia,Fastly,External,20
+HR,🇭🇷 Croatia,Microsoft,Local,15
+HR,🇭🇷 Croatia,Other,Local,198
+HR,🇭🇷 Croatia,Other,External,222
+HR,🇭🇷 Croatia,Reflectednetworks,External,5
+HR,🇭🇷 Croatia,Wordpress,External,1
+CU,🇨🇺 Cuba,Other,Local,74
+CU,🇨🇺 Cuba,Other,External,909
+CW,🇨🇼 Curaçao,Akamai,Local,135
+CW,🇨🇼 Curaçao,Amazon,External,122
+CW,🇨🇼 Curaçao,Bunnycdn,External,3
+CW,🇨🇼 Curaçao,Cdn77,External,5
+CW,🇨🇼 Curaçao,Cloudflare,External,303
+CW,🇨🇼 Curaçao,Facebook,External,10
+CW,🇨🇼 Curaçao,Fastly,External,53
+CW,🇨🇼 Curaçao,Microsoft,External,25
+CW,🇨🇼 Curaçao,Other,Local,20
+CW,🇨🇼 Curaçao,Other,External,307
+CW,🇨🇼 Curaçao,Reflectednetworks,External,9
+CY,🇨🇾 Cyprus,Akamai,Local,92
+CY,🇨🇾 Cyprus,Amazon,External,59
+CY,🇨🇾 Cyprus,Bunnycdn,External,3
+CY,🇨🇾 Cyprus,Cdn77,External,6
+CY,🇨🇾 Cyprus,Cloudflare,Local,259
+CY,🇨🇾 Cyprus,Cloudflare,Regional,64
+CY,🇨🇾 Cyprus,Cloudflare,External,83
+CY,🇨🇾 Cyprus,Facebook,External,7
+CY,🇨🇾 Cyprus,Fastly,External,28
+CY,🇨🇾 Cyprus,Medianova,External,1
+CY,🇨🇾 Cyprus,Microsoft,External,18
+CY,🇨🇾 Cyprus,Other,Local,101
+CY,🇨🇾 Cyprus,Other,External,261
+CY,🇨🇾 Cyprus,Reflectednetworks,External,8
+CZ,🇨🇿 Czechia,Akamai,Local,45
+CZ,🇨🇿 Czechia,Amazon,External,54
+CZ,🇨🇿 Czechia,Bunnycdn,External,1
+CZ,🇨🇿 Czechia,Cdn77,External,3
+CZ,🇨🇿 Czechia,Cloudflare,Local,284
+CZ,🇨🇿 Czechia,Facebook,External,5
+CZ,🇨🇿 Czechia,Fastly,External,15
+CZ,🇨🇿 Czechia,Microsoft,Local,29
+CZ,🇨🇿 Czechia,Other,Local,419
+CZ,🇨🇿 Czechia,Other,External,134
+CZ,🇨🇿 Czechia,Reflectednetworks,External,6
+CD,🇨🇩 Democratic Republic of the Congo,Other,Local,13
+CD,🇨🇩 Democratic Republic of the Congo,Other,External,979
+DK,🇩🇰 Denmark,Akamai,Local,70
+DK,🇩🇰 Denmark,Amazon,Regional,10
+DK,🇩🇰 Denmark,Amazon,External,91
+DK,🇩🇰 Denmark,Bunnycdn,External,1
+DK,🇩🇰 Denmark,Cdn77,Regional,1
+DK,🇩🇰 Denmark,Cdn77,External,1
+DK,🇩🇰 Denmark,Cloudflare,Local,352
+DK,🇩🇰 Denmark,Cloudflare,External,7
+DK,🇩🇰 Denmark,Facebook,External,8
+DK,🇩🇰 Denmark,Fastly,Local,44
+DK,🇩🇰 Denmark,Fastly,Regional,3
+DK,🇩🇰 Denmark,Microsoft,Local,67
+DK,🇩🇰 Denmark,Other,Local,163
+DK,🇩🇰 Denmark,Other,External,175
+DK,🇩🇰 Denmark,Reflectednetworks,External,6
+DK,🇩🇰 Denmark,Wordpress,Regional,1
+DJ,🇩🇯 Djibouti,Other,Local,24
+DJ,🇩🇯 Djibouti,Other,External,957
+DM,🇩🇲 Dominica,Akamai,External,124
+DM,🇩🇲 Dominica,Alibaba,External,1
+DM,🇩🇲 Dominica,Amazon,External,164
+DM,🇩🇲 Dominica,Bunnycdn,External,3
+DM,🇩🇲 Dominica,Cdn77,External,8
+DM,🇩🇲 Dominica,Cloudflare,External,340
+DM,🇩🇲 Dominica,Facebook,External,9
+DM,🇩🇲 Dominica,Fastly,External,59
+DM,🇩🇲 Dominica,Microsoft,External,21
+DM,🇩🇲 Dominica,Other,Local,8
+DM,🇩🇲 Dominica,Other,External,248
+DM,🇩🇲 Dominica,Reflectednetworks,External,7
+DO,🇩🇴 Dominican Republic,Akamai,Local,79
+DO,🇩🇴 Dominican Republic,Amazon,External,102
+DO,🇩🇴 Dominican Republic,Bunnycdn,External,4
+DO,🇩🇴 Dominican Republic,Cdn77,External,9
+DO,🇩🇴 Dominican Republic,Cloudflare,Local,101
+DO,🇩🇴 Dominican Republic,Cloudflare,External,299
+DO,🇩🇴 Dominican Republic,Facebook,External,10
+DO,🇩🇴 Dominican Republic,Fastly,External,45
+DO,🇩🇴 Dominican Republic,Microsoft,External,53
+DO,🇩🇴 Dominican Republic,Other,Local,48
+DO,🇩🇴 Dominican Republic,Other,External,236
+DO,🇩🇴 Dominican Republic,Reflectednetworks,External,9
+EC,🇪🇨 Ecuador,Akamai,Local,60
+EC,🇪🇨 Ecuador,Alibaba,External,1
+EC,🇪🇨 Ecuador,Amazon,External,102
+EC,🇪🇨 Ecuador,Bunnycdn,External,2
+EC,🇪🇨 Ecuador,Cdn77,External,5
+EC,🇪🇨 Ecuador,Cloudflare,Local,122
+EC,🇪🇨 Ecuador,Cloudflare,Regional,22
+EC,🇪🇨 Ecuador,Cloudflare,External,167
+EC,🇪🇨 Ecuador,Facebook,External,9
+EC,🇪🇨 Ecuador,Fastly,Regional,28
+EC,🇪🇨 Ecuador,Microsoft,External,38
+EC,🇪🇨 Ecuador,Other,Local,194
+EC,🇪🇨 Ecuador,Other,External,233
+EC,🇪🇨 Ecuador,Reflectednetworks,External,5
+EG,🇪🇬 Egypt,Akamai,Local,41
+EG,🇪🇬 Egypt,Amazon,External,57
+EG,🇪🇬 Egypt,Bunnycdn,External,2
+EG,🇪🇬 Egypt,Cdn77,External,5
+EG,🇪🇬 Egypt,Cloudflare,Local,55
+EG,🇪🇬 Egypt,Cloudflare,External,503
+EG,🇪🇬 Egypt,Facebook,External,10
+EG,🇪🇬 Egypt,Fastly,External,14
+EG,🇪🇬 Egypt,Microsoft,Local,16
+EG,🇪🇬 Egypt,Other,Local,75
+EG,🇪🇬 Egypt,Other,External,199
+EG,🇪🇬 Egypt,Reflectednetworks,External,11
+SV,🇸🇻 El Salvador,Akamai,Local,65
+SV,🇸🇻 El Salvador,Alibaba,External,1
+SV,🇸🇻 El Salvador,Amazon,External,127
+SV,🇸🇻 El Salvador,Bunnycdn,External,5
+SV,🇸🇻 El Salvador,Cdn77,External,5
+SV,🇸🇻 El Salvador,Cloudflare,Regional,42
+SV,🇸🇻 El Salvador,Cloudflare,External,370
+SV,🇸🇻 El Salvador,Facebook,External,9
+SV,🇸🇻 El Salvador,Fastly,External,38
+SV,🇸🇻 El Salvador,Microsoft,External,30
+SV,🇸🇻 El Salvador,Other,Local,39
+SV,🇸🇻 El Salvador,Other,External,252
+SV,🇸🇻 El Salvador,Reflectednetworks,External,7
+GQ,🇬🇶 Equatorial Guinea,Other,Local,4
+GQ,🇬🇶 Equatorial Guinea,Other,External,995
+EE,🇪🇪 Estonia,Akamai,Local,36
+EE,🇪🇪 Estonia,Amazon,Regional,1
+EE,🇪🇪 Estonia,Amazon,External,62
+EE,🇪🇪 Estonia,Bunnycdn,External,1
+EE,🇪🇪 Estonia,Cdn77,External,2
+EE,🇪🇪 Estonia,Cloudflare,Local,332
+EE,🇪🇪 Estonia,Cloudflare,Regional,7
+EE,🇪🇪 Estonia,Facebook,External,6
+EE,🇪🇪 Estonia,Fastly,Regional,7
+EE,🇪🇪 Estonia,Fastly,External,9
+EE,🇪🇪 Estonia,Microsoft,External,17
+EE,🇪🇪 Estonia,Other,Local,269
+EE,🇪🇪 Estonia,Other,External,245
+EE,🇪🇪 Estonia,Reflectednetworks,External,5
+SZ,🇸🇿 Eswatini,Other,Local,27
+SZ,🇸🇿 Eswatini,Other,External,966
+ET,🇪🇹 Ethiopia,Other,Local,116
+ET,🇪🇹 Ethiopia,Other,External,863
+FK,🇫🇰 Falkland Islands (Malvinas),Other,Local,2
+FK,🇫🇰 Falkland Islands (Malvinas),Other,External,134
+FO,🇫🇴 Faroe Islands,Akamai,Local,66
+FO,🇫🇴 Faroe Islands,Amazon,External,140
+FO,🇫🇴 Faroe Islands,Bunnycdn,External,1
+FO,🇫🇴 Faroe Islands,Cdn77,External,3
+FO,🇫🇴 Faroe Islands,Cloudflare,Regional,299
+FO,🇫🇴 Faroe Islands,Facebook,External,5
+FO,🇫🇴 Faroe Islands,Fastly,Regional,65
+FO,🇫🇴 Faroe Islands,Microsoft,External,41
+FO,🇫🇴 Faroe Islands,Other,Local,63
+FO,🇫🇴 Faroe Islands,Other,External,312
+FO,🇫🇴 Faroe Islands,Reflectednetworks,External,4
+FO,🇫🇴 Faroe Islands,Wordpress,Regional,1
+FJ,🇫🇯 Fiji,Akamai,Local,89
+FJ,🇫🇯 Fiji,Alibaba,External,1
+FJ,🇫🇯 Fiji,Amazon,External,108
+FJ,🇫🇯 Fiji,Bunnycdn,External,3
+FJ,🇫🇯 Fiji,Cdn77,External,7
+FJ,🇫🇯 Fiji,Cloudflare,Local,286
+FJ,🇫🇯 Fiji,Cloudflare,External,124
+FJ,🇫🇯 Fiji,Facebook,External,9
+FJ,🇫🇯 Fiji,Fastly,External,32
+FJ,🇫🇯 Fiji,Microsoft,External,29
+FJ,🇫🇯 Fiji,Other,Local,48
+FJ,🇫🇯 Fiji,Other,External,242
+FJ,🇫🇯 Fiji,Reflectednetworks,External,11
+FI,🇫🇮 Finland,Akamai,Local,53
+FI,🇫🇮 Finland,Amazon,Regional,184
+FI,🇫🇮 Finland,Bunnycdn,Regional,1
+FI,🇫🇮 Finland,Cdn77,Regional,2
+FI,🇫🇮 Finland,Cloudflare,Local,341
+FI,🇫🇮 Finland,Facebook,External,6
+FI,🇫🇮 Finland,Fastly,Local,32
+FI,🇫🇮 Finland,Microsoft,Local,47
+FI,🇫🇮 Finland,Other,Local,179
+FI,🇫🇮 Finland,Other,External,150
+FI,🇫🇮 Finland,Reflectednetworks,External,5
+FR,🇫🇷 France,Akamai,Local,126
+FR,🇫🇷 France,Amazon,Local,103
+FR,🇫🇷 France,Bunnycdn,Local,2
+FR,🇫🇷 France,Cdn77,Local,5
+FR,🇫🇷 France,Cloudflare,Local,364
+FR,🇫🇷 France,Facebook,External,5
+FR,🇫🇷 France,Fastly,Local,32
+FR,🇫🇷 France,Microsoft,Local,16
+FR,🇫🇷 France,Other,Local,224
+FR,🇫🇷 France,Other,External,117
+FR,🇫🇷 France,Reflectednetworks,Local,5
+GF,🇬🇫 French Guiana,Akamai,Local,113
+GF,🇬🇫 French Guiana,Amazon,External,85
+GF,🇬🇫 French Guiana,Bunnycdn,External,6
+GF,🇬🇫 French Guiana,Cdn77,External,3
+GF,🇬🇫 French Guiana,Cloudflare,External,348
+GF,🇬🇫 French Guiana,Facebook,External,6
+GF,🇬🇫 French Guiana,Fastly,External,25
+GF,🇬🇫 French Guiana,Microsoft,External,9
+GF,🇬🇫 French Guiana,Other,Local,2
+GF,🇬🇫 French Guiana,Other,External,391
+GF,🇬🇫 French Guiana,Reflectednetworks,External,8
+PF,🇵🇫 French Polynesia,Akamai,Local,103
+PF,🇵🇫 French Polynesia,Amazon,External,79
+PF,🇵🇫 French Polynesia,Bunnycdn,External,2
+PF,🇵🇫 French Polynesia,Cdn77,External,4
+PF,🇵🇫 French Polynesia,Cloudflare,External,402
+PF,🇵🇫 French Polynesia,Facebook,External,6
+PF,🇵🇫 French Polynesia,Fastly,External,36
+PF,🇵🇫 French Polynesia,Microsoft,External,8
+PF,🇵🇫 French Polynesia,Other,Local,0
+PF,🇵🇫 French Polynesia,Other,External,0
+PF,🇵🇫 French Polynesia,Reflectednetworks,External,7
+GA,🇬🇦 Gabon,Akamai,External,69
+GA,🇬🇦 Gabon,Alibaba,External,1
+GA,🇬🇦 Gabon,Amazon,External,62
+GA,🇬🇦 Gabon,Bunnycdn,External,3
+GA,🇬🇦 Gabon,Cdn77,External,13
+GA,🇬🇦 Gabon,Cloudflare,Regional,490
+GA,🇬🇦 Gabon,Facebook,External,6
+GA,🇬🇦 Gabon,Fastly,External,25
+GA,🇬🇦 Gabon,Microsoft,External,14
+GA,🇬🇦 Gabon,Other,Local,12
+GA,🇬🇦 Gabon,Other,External,281
+GA,🇬🇦 Gabon,Reflectednetworks,External,14
+GM,🇬🇲 Gambia,Akamai,External,91
+GM,🇬🇲 Gambia,Alibaba,External,3
+GM,🇬🇲 Gambia,Amazon,External,103
+GM,🇬🇲 Gambia,Bunnycdn,External,4
+GM,🇬🇲 Gambia,Cdn77,External,13
+GM,🇬🇲 Gambia,Chinanetcenter,External,1
+GM,🇬🇲 Gambia,Cloudflare,External,431
+GM,🇬🇲 Gambia,Facebook,External,8
+GM,🇬🇲 Gambia,Fastly,External,36
+GM,🇬🇲 Gambia,Microsoft,External,25
+GM,🇬🇲 Gambia,Other,Local,5
+GM,🇬🇲 Gambia,Other,External,249
+GM,🇬🇲 Gambia,Reflectednetworks,External,13
+GM,🇬🇲 Gambia,Wordpress,External,1
+GE,🇬🇪 Georgia,Akamai,Local,36
+GE,🇬🇪 Georgia,Alibaba,External,1
+GE,🇬🇪 Georgia,Amazon,External,72
+GE,🇬🇪 Georgia,Bunnycdn,External,1
+GE,🇬🇪 Georgia,Cdn77,External,7
+GE,🇬🇪 Georgia,Cloudflare,Local,332
+GE,🇬🇪 Georgia,Cloudflare,External,33
+GE,🇬🇪 Georgia,Facebook,External,10
+GE,🇬🇪 Georgia,Fastly,External,16
+GE,🇬🇪 Georgia,Microsoft,External,9
+GE,🇬🇪 Georgia,Netflix,Local,1
+GE,🇬🇪 Georgia,Other,Local,182
+GE,🇬🇪 Georgia,Other,External,291
+GE,🇬🇪 Georgia,Reflectednetworks,External,6
+DE,🇩🇪 Germany,Akamai,Local,138
+DE,🇩🇪 Germany,Alibaba,External,1
+DE,🇩🇪 Germany,Amazon,Local,117
+DE,🇩🇪 Germany,Bunnycdn,Local,2
+DE,🇩🇪 Germany,Cdn77,Local,6
+DE,🇩🇪 Germany,Cloudflare,Local,315
+DE,🇩🇪 Germany,Cloudflare,Regional,6
+DE,🇩🇪 Germany,Facebook,External,6
+DE,🇩🇪 Germany,Fastly,Local,29
+DE,🇩🇪 Germany,Fastly,Regional,3
+DE,🇩🇪 Germany,Microsoft,Local,15
+DE,🇩🇪 Germany,Netflix,Local,1
+DE,🇩🇪 Germany,Other,Local,202
+DE,🇩🇪 Germany,Other,External,138
+DE,🇩🇪 Germany,Reflectednetworks,Local,13
+DE,🇩🇪 Germany,Wordpress,Local,2
+GH,🇬🇭 Ghana,Other,Local,52
+GH,🇬🇭 Ghana,Other,External,934
+GI,🇬🇮 Gibraltar,Akamai,Local,150
+GI,🇬🇮 Gibraltar,Amazon,External,184
+GI,🇬🇮 Gibraltar,Bunnycdn,External,2
+GI,🇬🇮 Gibraltar,Cdn77,External,13
+GI,🇬🇮 Gibraltar,Cloudflare,Regional,261
+GI,🇬🇮 Gibraltar,Facebook,External,9
+GI,🇬🇮 Gibraltar,Fastly,Regional,105
+GI,🇬🇮 Gibraltar,Microsoft,External,30
+GI,🇬🇮 Gibraltar,Other,Local,20
+GI,🇬🇮 Gibraltar,Other,External,220
+GI,🇬🇮 Gibraltar,Reflectednetworks,External,4
+GR,🇬🇷 Greece,Akamai,Local,117
+GR,🇬🇷 Greece,Amazon,External,50
+GR,🇬🇷 Greece,Bunnycdn,External,2
+GR,🇬🇷 Greece,Cdn77,External,4
+GR,🇬🇷 Greece,Cloudflare,Local,397
+GR,🇬🇷 Greece,Facebook,External,4
+GR,🇬🇷 Greece,Fastly,External,22
+GR,🇬🇷 Greece,Microsoft,Local,24
+GR,🇬🇷 Greece,Other,Local,114
+GR,🇬🇷 Greece,Other,External,258
+GR,🇬🇷 Greece,Reflectednetworks,External,6
+GL,🇬🇱 Greenland,Akamai,Local,88
+GL,🇬🇱 Greenland,Alibaba,Local,1
+GL,🇬🇱 Greenland,Amazon,External,103
+GL,🇬🇱 Greenland,Bunnycdn,External,3
+GL,🇬🇱 Greenland,Cdn77,External,5
+GL,🇬🇱 Greenland,Chinanetcenter,External,1
+GL,🇬🇱 Greenland,Cloudflare,External,303
+GL,🇬🇱 Greenland,Facebook,External,8
+GL,🇬🇱 Greenland,Fastly,Regional,62
+GL,🇬🇱 Greenland,Microsoft,External,56
+GL,🇬🇱 Greenland,Other,Local,32
+GL,🇬🇱 Greenland,Other,External,329
+GL,🇬🇱 Greenland,Reflectednetworks,External,7
+GD,🇬🇩 Grenada,Akamai,Local,129
+GD,🇬🇩 Grenada,Alibaba,External,2
+GD,🇬🇩 Grenada,Amazon,External,148
+GD,🇬🇩 Grenada,Bunnycdn,External,4
+GD,🇬🇩 Grenada,Cdn77,External,9
+GD,🇬🇩 Grenada,Cloudflare,External,350
+GD,🇬🇩 Grenada,Facebook,External,9
+GD,🇬🇩 Grenada,Fastly,External,58
+GD,🇬🇩 Grenada,Microsoft,External,22
+GD,🇬🇩 Grenada,Other,Local,3
+GD,🇬🇩 Grenada,Other,External,250
+GD,🇬🇩 Grenada,Reflectednetworks,External,11
+GP,🇬🇵 Guadeloupe,Akamai,Local,116
+GP,🇬🇵 Guadeloupe,Amazon,External,98
+GP,🇬🇵 Guadeloupe,Bunnycdn,External,3
+GP,🇬🇵 Guadeloupe,Cdn77,External,4
+GP,🇬🇵 Guadeloupe,Cloudflare,External,331
+GP,🇬🇵 Guadeloupe,Facebook,External,7
+GP,🇬🇵 Guadeloupe,Fastly,External,24
+GP,🇬🇵 Guadeloupe,Microsoft,External,13
+GP,🇬🇵 Guadeloupe,Other,Local,5
+GP,🇬🇵 Guadeloupe,Other,External,387
+GP,🇬🇵 Guadeloupe,Reflectednetworks,External,7
+GU,🇬🇺 Guam,Akamai,Local,151
+GU,🇬🇺 Guam,Alibaba,External,1
+GU,🇬🇺 Guam,Amazon,External,151
+GU,🇬🇺 Guam,Bunnycdn,External,3
+GU,🇬🇺 Guam,Cdn77,External,6
+GU,🇬🇺 Guam,Cloudflare,External,333
+GU,🇬🇺 Guam,Facebook,External,9
+GU,🇬🇺 Guam,Fastly,External,58
+GU,🇬🇺 Guam,Microsoft,External,18
+GU,🇬🇺 Guam,Other,Local,18
+GU,🇬🇺 Guam,Other,External,241
+GU,🇬🇺 Guam,Reflectednetworks,External,10
+GT,🇬🇹 Guatemala,Akamai,Local,62
+GT,🇬🇹 Guatemala,Alibaba,External,1
+GT,🇬🇹 Guatemala,Amazon,External,137
+GT,🇬🇹 Guatemala,Bunnycdn,External,4
+GT,🇬🇹 Guatemala,Cdn77,External,6
+GT,🇬🇹 Guatemala,Cloudflare,Regional,50
+GT,🇬🇹 Guatemala,Cloudflare,External,325
+GT,🇬🇹 Guatemala,Facebook,External,9
+GT,🇬🇹 Guatemala,Fastly,Regional,4
+GT,🇬🇹 Guatemala,Fastly,External,28
+GT,🇬🇹 Guatemala,Microsoft,External,30
+GT,🇬🇹 Guatemala,Other,Local,43
+GT,🇬🇹 Guatemala,Other,External,287
+GT,🇬🇹 Guatemala,Reflectednetworks,External,9
+GG,🇬🇬 Guernsey,Akamai,Local,129
+GG,🇬🇬 Guernsey,Amazon,External,197
+GG,🇬🇬 Guernsey,Bunnycdn,External,1
+GG,🇬🇬 Guernsey,Cdn77,External,2
+GG,🇬🇬 Guernsey,Cloudflare,Regional,240
+GG,🇬🇬 Guernsey,Cloudflare,External,63
+GG,🇬🇬 Guernsey,Facebook,External,6
+GG,🇬🇬 Guernsey,Fastly,Regional,79
+GG,🇬🇬 Guernsey,Microsoft,External,35
+GG,🇬🇬 Guernsey,Other,Local,2
+GG,🇬🇬 Guernsey,Other,External,243
+GG,🇬🇬 Guernsey,Reflectednetworks,External,3
+GN,🇬🇳 Guinea,Akamai,Local,85
+GN,🇬🇳 Guinea,Alibaba,External,1
+GN,🇬🇳 Guinea,Amazon,External,83
+GN,🇬🇳 Guinea,Bunnycdn,External,3
+GN,🇬🇳 Guinea,Cdn77,External,12
+GN,🇬🇳 Guinea,Chinanetcenter,External,1
+GN,🇬🇳 Guinea,Cloudflare,Regional,382
+GN,🇬🇳 Guinea,Facebook,External,10
+GN,🇬🇳 Guinea,Fastly,External,28
+GN,🇬🇳 Guinea,Microsoft,External,12
+GN,🇬🇳 Guinea,Other,Local,11
+GN,🇬🇳 Guinea,Other,External,354
+GN,🇬🇳 Guinea,Reflectednetworks,External,10
+GW,🇬🇼 Guinea-Bissau,Other,Local,7
+GW,🇬🇼 Guinea-Bissau,Other,External,951
+GY,🇬🇾 Guyana,Akamai,External,90
+GY,🇬🇾 Guyana,Alibaba,External,1
+GY,🇬🇾 Guyana,Amazon,External,112
+GY,🇬🇾 Guyana,Bunnycdn,External,5
+GY,🇬🇾 Guyana,Cdn77,External,9
+GY,🇬🇾 Guyana,Cloudflare,Regional,94
+GY,🇬🇾 Guyana,Cloudflare,External,354
+GY,🇬🇾 Guyana,Facebook,External,8
+GY,🇬🇾 Guyana,Fastly,External,35
+GY,🇬🇾 Guyana,Microsoft,External,18
+GY,🇬🇾 Guyana,Other,Local,10
+GY,🇬🇾 Guyana,Other,External,244
+GY,🇬🇾 Guyana,Reflectednetworks,External,11
+HT,🇭🇹 Haiti,Akamai,Local,72
+HT,🇭🇹 Haiti,Amazon,External,110
+HT,🇭🇹 Haiti,Bunnycdn,External,3
+HT,🇭🇹 Haiti,Cdn77,External,8
+HT,🇭🇹 Haiti,Cloudflare,External,395
+HT,🇭🇹 Haiti,Facebook,External,9
+HT,🇭🇹 Haiti,Fastly,External,47
+HT,🇭🇹 Haiti,Microsoft,External,11
+HT,🇭🇹 Haiti,Netflix,Local,1
+HT,🇭🇹 Haiti,Other,Local,14
+HT,🇭🇹 Haiti,Other,External,308
+HT,🇭🇹 Haiti,Reflectednetworks,External,9
+HN,🇭🇳 Honduras,Akamai,Local,65
+HN,🇭🇳 Honduras,Alibaba,External,1
+HN,🇭🇳 Honduras,Amazon,External,147
+HN,🇭🇳 Honduras,Bunnycdn,External,6
+HN,🇭🇳 Honduras,Cdn77,External,9
+HN,🇭🇳 Honduras,Cloudflare,Local,108
+HN,🇭🇳 Honduras,Cloudflare,Regional,34
+HN,🇭🇳 Honduras,Cloudflare,External,230
+HN,🇭🇳 Honduras,Facebook,External,11
+HN,🇭🇳 Honduras,Fastly,Regional,2
+HN,🇭🇳 Honduras,Fastly,External,39
+HN,🇭🇳 Honduras,Microsoft,External,22
+HN,🇭🇳 Honduras,Netflix,Local,1
+HN,🇭🇳 Honduras,Other,Local,44
+HN,🇭🇳 Honduras,Other,External,259
+HN,🇭🇳 Honduras,Reflectednetworks,External,8
+HN,🇭🇳 Honduras,Wordpress,External,1
+HK,🇭🇰 Hong Kong,Akamai,External,77
+HK,🇭🇰 Hong Kong,Alibaba,External,51
+HK,🇭🇰 Hong Kong,Amazon,Regional,69
+HK,🇭🇰 Hong Kong,Amazon,External,26
+HK,🇭🇰 Hong Kong,Bunnycdn,External,2
+HK,🇭🇰 Hong Kong,Cdn77,External,4
+HK,🇭🇰 Hong Kong,Cloudflare,Local,408
+HK,🇭🇰 Hong Kong,Facebook,External,10
+HK,🇭🇰 Hong Kong,Fastly,Local,19
+HK,🇭🇰 Hong Kong,Fastly,Regional,3
+HK,🇭🇰 Hong Kong,Fastly,External,1
+HK,🇭🇰 Hong Kong,Microsoft,Local,15
+HK,🇭🇰 Hong Kong,Other,Local,93
+HK,🇭🇰 Hong Kong,Other,External,210
+HK,🇭🇰 Hong Kong,Reflectednetworks,External,7
+HU,🇭🇺 Hungary,Akamai,Local,50
+HU,🇭🇺 Hungary,Alibaba,Local,1
+HU,🇭🇺 Hungary,Amazon,External,70
+HU,🇭🇺 Hungary,Bunnycdn,External,2
+HU,🇭🇺 Hungary,Cdn77,External,2
+HU,🇭🇺 Hungary,Cloudflare,Local,147
+HU,🇭🇺 Hungary,Cloudflare,External,151
+HU,🇭🇺 Hungary,Facebook,External,6
+HU,🇭🇺 Hungary,Fastly,External,16
+HU,🇭🇺 Hungary,Microsoft,Local,25
+HU,🇭🇺 Hungary,Other,Local,337
+HU,🇭🇺 Hungary,Other,External,184
+HU,🇭🇺 Hungary,Reflectednetworks,External,6
+IS,🇮🇸 Iceland,Akamai,Local,54
+IS,🇮🇸 Iceland,Amazon,External,164
+IS,🇮🇸 Iceland,Bunnycdn,External,1
+IS,🇮🇸 Iceland,Cdn77,Regional,1
+IS,🇮🇸 Iceland,Cdn77,External,2
+IS,🇮🇸 Iceland,Cloudflare,Local,323
+IS,🇮🇸 Iceland,Facebook,External,7
+IS,🇮🇸 Iceland,Fastly,Regional,10
+IS,🇮🇸 Iceland,Fastly,External,25
+IS,🇮🇸 Iceland,Microsoft,External,55
+IS,🇮🇸 Iceland,Other,Local,177
+IS,🇮🇸 Iceland,Other,External,167
+IS,🇮🇸 Iceland,Reflectednetworks,External,10
+IS,🇮🇸 Iceland,Wordpress,Regional,4
+IN,🇮🇳 India,Akamai,Local,119
+IN,🇮🇳 India,Amazon,Local,127
+IN,🇮🇳 India,Bunnycdn,Local,1
+IN,🇮🇳 India,Cdn77,External,4
+IN,🇮🇳 India,Cloudflare,Local,408
+IN,🇮🇳 India,Facebook,External,8
+IN,🇮🇳 India,Fastly,Local,6
+IN,🇮🇳 India,Fastly,External,8
+IN,🇮🇳 India,Microsoft,Local,4
+IN,🇮🇳 India,Other,Local,177
+IN,🇮🇳 India,Other,External,123
+IN,🇮🇳 India,Reflectednetworks,External,4
+ID,🇮🇩 Indonesia,Akamai,Local,25
+ID,🇮🇩 Indonesia,Alibaba,External,9
+ID,🇮🇩 Indonesia,Amazon,Regional,88
+ID,🇮🇩 Indonesia,Bunnycdn,Regional,1
+ID,🇮🇩 Indonesia,Cdn77,Regional,11
+ID,🇮🇩 Indonesia,Cloudflare,Local,155
+ID,🇮🇩 Indonesia,Cloudflare,Regional,427
+ID,🇮🇩 Indonesia,Facebook,External,8
+ID,🇮🇩 Indonesia,Fastly,Regional,9
+ID,🇮🇩 Indonesia,Microsoft,Local,1
+ID,🇮🇩 Indonesia,Netflix,Local,1
+ID,🇮🇩 Indonesia,Other,Local,49
+ID,🇮🇩 Indonesia,Other,External,172
+ID,🇮🇩 Indonesia,Reflectednetworks,Regional,3
+IR,🇮🇷 Iran,Other,Local,47
+IR,🇮🇷 Iran,Other,External,344
+IQ,🇮🇶 Iraq,Other,Local,14
+IQ,🇮🇶 Iraq,Other,External,975
+IE,🇮🇪 Ireland,Akamai,Local,96
+IE,🇮🇪 Ireland,Amazon,Regional,128
+IE,🇮🇪 Ireland,Amazon,External,43
+IE,🇮🇪 Ireland,Bunnycdn,Regional,1
+IE,🇮🇪 Ireland,Cdn77,Regional,2
+IE,🇮🇪 Ireland,Cloudflare,Local,287
+IE,🇮🇪 Ireland,Cloudflare,Regional,95
+IE,🇮🇪 Ireland,Facebook,External,5
+IE,🇮🇪 Ireland,Fastly,Local,53
+IE,🇮🇪 Ireland,Fastly,External,12
+IE,🇮🇪 Ireland,Microsoft,Local,35
+IE,🇮🇪 Ireland,Other,Local,52
+IE,🇮🇪 Ireland,Other,External,180
+IE,🇮🇪 Ireland,Reflectednetworks,Regional,7
+IE,🇮🇪 Ireland,Wordpress,Regional,2
+IE,🇮🇪 Ireland,Wordpress,External,1
+IM,🇮🇲 Isle of Man,Akamai,Local,146
+IM,🇮🇲 Isle of Man,Amazon,Regional,139
+IM,🇮🇲 Isle of Man,Amazon,External,43
+IM,🇮🇲 Isle of Man,Bunnycdn,Regional,2
+IM,🇮🇲 Isle of Man,Cdn77,Regional,2
+IM,🇮🇲 Isle of Man,Cloudflare,Regional,326
+IM,🇮🇲 Isle of Man,Facebook,External,6
+IM,🇮🇲 Isle of Man,Fastly,Regional,79
+IM,🇮🇲 Isle of Man,Microsoft,External,28
+IM,🇮🇲 Isle of Man,Other,Local,7
+IM,🇮🇲 Isle of Man,Other,External,218
+IM,🇮🇲 Isle of Man,Reflectednetworks,External,4
+IL,🇮🇱 Israel,Akamai,Local,55
+IL,🇮🇱 Israel,Alibaba,External,1
+IL,🇮🇱 Israel,Amazon,External,104
+IL,🇮🇱 Israel,Bunnycdn,External,5
+IL,🇮🇱 Israel,Cdn77,External,2
+IL,🇮🇱 Israel,Cloudflare,Local,426
+IL,🇮🇱 Israel,Facebook,External,8
+IL,🇮🇱 Israel,Fastly,External,21
+IL,🇮🇱 Israel,Microsoft,Local,17
+IL,🇮🇱 Israel,Other,Local,135
+IL,🇮🇱 Israel,Other,External,219
+IL,🇮🇱 Israel,Reflectednetworks,External,6
+IT,🇮🇹 Italy,Akamai,Local,127
+IT,🇮🇹 Italy,Amazon,External,138
+IT,🇮🇹 Italy,Bunnycdn,External,3
+IT,🇮🇹 Italy,Cdn77,External,6
+IT,🇮🇹 Italy,Cloudflare,Local,305
+IT,🇮🇹 Italy,Facebook,External,8
+IT,🇮🇹 Italy,Fastly,Local,43
+IT,🇮🇹 Italy,Microsoft,Local,32
+IT,🇮🇹 Italy,Other,Local,171
+IT,🇮🇹 Italy,Other,External,157
+IT,🇮🇹 Italy,Reflectednetworks,External,8
+JM,🇯🇲 Jamaica,Akamai,Local,85
+JM,🇯🇲 Jamaica,Amazon,External,116
+JM,🇯🇲 Jamaica,Bunnycdn,External,3
+JM,🇯🇲 Jamaica,Cdn77,External,8
+JM,🇯🇲 Jamaica,Cloudflare,Local,165
+JM,🇯🇲 Jamaica,Cloudflare,External,265
+JM,🇯🇲 Jamaica,Facebook,External,7
+JM,🇯🇲 Jamaica,Fastly,External,36
+JM,🇯🇲 Jamaica,Microsoft,External,35
+JM,🇯🇲 Jamaica,Other,Local,48
+JM,🇯🇲 Jamaica,Other,External,212
+JM,🇯🇲 Jamaica,Reflectednetworks,External,8
+JP,🇯🇵 Japan,Akamai,Local,145
+JP,🇯🇵 Japan,Alibaba,External,2
+JP,🇯🇵 Japan,Amazon,Local,355
+JP,🇯🇵 Japan,Bunnycdn,Local,1
+JP,🇯🇵 Japan,Cdn77,Local,2
+JP,🇯🇵 Japan,Cloudflare,Local,124
+JP,🇯🇵 Japan,Facebook,External,4
+JP,🇯🇵 Japan,Fastly,Local,30
+JP,🇯🇵 Japan,Microsoft,Local,4
+JP,🇯🇵 Japan,Netflix,Local,1
+JP,🇯🇵 Japan,Other,Local,253
+JP,🇯🇵 Japan,Other,External,74
+JP,🇯🇵 Japan,Reflectednetworks,External,4
+JE,🇯🇪 Jersey,Akamai,Local,127
+JE,🇯🇪 Jersey,Amazon,External,198
+JE,🇯🇪 Jersey,Bunnycdn,External,1
+JE,🇯🇪 Jersey,Cdn77,External,3
+JE,🇯🇪 Jersey,Cloudflare,Regional,103
+JE,🇯🇪 Jersey,Cloudflare,External,201
+JE,🇯🇪 Jersey,Facebook,External,5
+JE,🇯🇪 Jersey,Fastly,Regional,74
+JE,🇯🇪 Jersey,Microsoft,External,50
+JE,🇯🇪 Jersey,Other,Local,7
+JE,🇯🇪 Jersey,Other,External,219
+JE,🇯🇪 Jersey,Reflectednetworks,External,8
+JE,🇯🇪 Jersey,Wordpress,Regional,3
+JO,🇯🇴 Jordan,Akamai,Local,42
+JO,🇯🇴 Jordan,Alibaba,External,1
+JO,🇯🇴 Jordan,Amazon,External,53
+JO,🇯🇴 Jordan,Bunnycdn,External,2
+JO,🇯🇴 Jordan,Cdn77,External,8
+JO,🇯🇴 Jordan,Cloudflare,Local,510
+JO,🇯🇴 Jordan,Facebook,External,11
+JO,🇯🇴 Jordan,Fastly,Regional,7
+JO,🇯🇴 Jordan,Fastly,External,10
+JO,🇯🇴 Jordan,Microsoft,External,17
+JO,🇯🇴 Jordan,Other,Local,120
+JO,🇯🇴 Jordan,Other,External,199
+JO,🇯🇴 Jordan,Reflectednetworks,External,14
+KZ,🇰🇿 Kazakhstan,Akamai,Local,18
+KZ,🇰🇿 Kazakhstan,Alibaba,External,1
+KZ,🇰🇿 Kazakhstan,Amazon,External,21
+KZ,🇰🇿 Kazakhstan,Bunnycdn,External,1
+KZ,🇰🇿 Kazakhstan,Cdn77,External,1
+KZ,🇰🇿 Kazakhstan,Cloudflare,Local,232
+KZ,🇰🇿 Kazakhstan,Facebook,External,8
+KZ,🇰🇿 Kazakhstan,Fastly,External,11
+KZ,🇰🇿 Kazakhstan,Microsoft,External,2
+KZ,🇰🇿 Kazakhstan,Other,Local,231
+KZ,🇰🇿 Kazakhstan,Other,External,466
+KZ,🇰🇿 Kazakhstan,Reflectednetworks,External,3
+KE,🇰🇪 Kenya,Akamai,Local,44
+KE,🇰🇪 Kenya,Alibaba,External,2
+KE,🇰🇪 Kenya,Amazon,External,102
+KE,🇰🇪 Kenya,Bunnycdn,External,1
+KE,🇰🇪 Kenya,Cdn77,External,6
+KE,🇰🇪 Kenya,Cloudflare,Local,47
+KE,🇰🇪 Kenya,Cloudflare,External,317
+KE,🇰🇪 Kenya,Facebook,External,10
+KE,🇰🇪 Kenya,Fastly,Regional,19
+KE,🇰🇪 Kenya,Fastly,External,4
+KE,🇰🇪 Kenya,Microsoft,Local,19
+KE,🇰🇪 Kenya,Other,Local,154
+KE,🇰🇪 Kenya,Other,External,259
+KE,🇰🇪 Kenya,Reflectednetworks,External,3
+KI,🇰🇮 Kiribati,Other,Local,1
+KI,🇰🇮 Kiribati,Other,External,92
+KW,🇰🇼 Kuwait,Akamai,Local,65
+KW,🇰🇼 Kuwait,Amazon,External,95
+KW,🇰🇼 Kuwait,Bunnycdn,External,1
+KW,🇰🇼 Kuwait,Cdn77,External,6
+KW,🇰🇼 Kuwait,Cloudflare,Local,549
+KW,🇰🇼 Kuwait,Facebook,External,8
+KW,🇰🇼 Kuwait,Fastly,Regional,15
+KW,🇰🇼 Kuwait,Fastly,External,12
+KW,🇰🇼 Kuwait,Microsoft,External,20
+KW,🇰🇼 Kuwait,Other,Local,52
+KW,🇰🇼 Kuwait,Other,External,163
+KW,🇰🇼 Kuwait,Reflectednetworks,External,6
+KG,🇰🇬 Kyrgyzstan,Akamai,Local,20
+KG,🇰🇬 Kyrgyzstan,Alibaba,External,1
+KG,🇰🇬 Kyrgyzstan,Amazon,External,31
+KG,🇰🇬 Kyrgyzstan,Bunnycdn,External,2
+KG,🇰🇬 Kyrgyzstan,Cdn77,External,4
+KG,🇰🇬 Kyrgyzstan,Cloudflare,Local,225
+KG,🇰🇬 Kyrgyzstan,Cloudflare,External,30
+KG,🇰🇬 Kyrgyzstan,Facebook,External,8
+KG,🇰🇬 Kyrgyzstan,Fastly,External,14
+KG,🇰🇬 Kyrgyzstan,Microsoft,External,5
+KG,🇰🇬 Kyrgyzstan,Other,Local,145
+KG,🇰🇬 Kyrgyzstan,Other,External,507
+KG,🇰🇬 Kyrgyzstan,Reflectednetworks,External,4
+LA,🇱🇦 Laos,Other,Local,21
+LA,🇱🇦 Laos,Other,External,970
+LV,🇱🇻 Latvia,Akamai,Local,38
+LV,🇱🇻 Latvia,Alibaba,External,1
+LV,🇱🇻 Latvia,Amazon,Regional,27
+LV,🇱🇻 Latvia,Amazon,External,29
+LV,🇱🇻 Latvia,Bunnycdn,External,1
+LV,🇱🇻 Latvia,Cdn77,External,2
+LV,🇱🇻 Latvia,Cloudflare,Local,325
+LV,🇱🇻 Latvia,Cloudflare,Regional,60
+LV,🇱🇻 Latvia,Facebook,External,6
+LV,🇱🇻 Latvia,Fastly,Regional,9
+LV,🇱🇻 Latvia,Fastly,External,5
+LV,🇱🇻 Latvia,Microsoft,External,13
+LV,🇱🇻 Latvia,Other,Local,175
+LV,🇱🇻 Latvia,Other,External,303
+LV,🇱🇻 Latvia,Reflectednetworks,External,6
+LB,🇱🇧 Lebanon,Other,Local,31
+LB,🇱🇧 Lebanon,Other,External,961
+LS,🇱🇸 Lesotho,Other,Local,22
+LS,🇱🇸 Lesotho,Other,External,973
+LR,🇱🇷 Liberia,Other,Local,7
+LR,🇱🇷 Liberia,Other,External,980
+LY,🇱🇾 Libya,Akamai,External,30
+LY,🇱🇾 Libya,Amazon,External,41
+LY,🇱🇾 Libya,Bunnycdn,External,4
+LY,🇱🇾 Libya,Cdn77,External,7
+LY,🇱🇾 Libya,Cloudflare,External,587
+LY,🇱🇾 Libya,Facebook,External,8
+LY,🇱🇾 Libya,Fastly,External,12
+LY,🇱🇾 Libya,Microsoft,External,6
+LY,🇱🇾 Libya,Netflix,Local,1
+LY,🇱🇾 Libya,Other,Local,24
+LY,🇱🇾 Libya,Other,External,255
+LY,🇱🇾 Libya,Reflectednetworks,External,14
+LI,🇱🇮 Liechtenstein,Other,Local,17
+LI,🇱🇮 Liechtenstein,Other,External,974
+LT,🇱🇹 Lithuania,Akamai,Local,47
+LT,🇱🇹 Lithuania,Amazon,Regional,1
+LT,🇱🇹 Lithuania,Amazon,External,60
+LT,🇱🇹 Lithuania,Bunnycdn,External,1
+LT,🇱🇹 Lithuania,Cdn77,External,4
+LT,🇱🇹 Lithuania,Cloudflare,Local,349
+LT,🇱🇹 Lithuania,Cloudflare,Regional,104
+LT,🇱🇹 Lithuania,Facebook,External,7
+LT,🇱🇹 Lithuania,Fastly,Regional,4
+LT,🇱🇹 Lithuania,Fastly,External,12
+LT,🇱🇹 Lithuania,Microsoft,External,11
+LT,🇱🇹 Lithuania,Other,Local,194
+LT,🇱🇹 Lithuania,Other,External,197
+LT,🇱🇹 Lithuania,Reflectednetworks,External,7
+LU,🇱🇺 Luxembourg,Akamai,Local,126
+LU,🇱🇺 Luxembourg,Amazon,Regional,106
+LU,🇱🇺 Luxembourg,Amazon,External,11
+LU,🇱🇺 Luxembourg,Bunnycdn,Regional,3
+LU,🇱🇺 Luxembourg,Bunnycdn,External,1
+LU,🇱🇺 Luxembourg,Cdn77,Regional,7
+LU,🇱🇺 Luxembourg,Cdn77,External,1
+LU,🇱🇺 Luxembourg,Cloudflare,Regional,334
+LU,🇱🇺 Luxembourg,Facebook,External,6
+LU,🇱🇺 Luxembourg,Fastly,Regional,47
+LU,🇱🇺 Luxembourg,Microsoft,External,17
+LU,🇱🇺 Luxembourg,Other,Local,81
+LU,🇱🇺 Luxembourg,Other,External,238
+LU,🇱🇺 Luxembourg,Reflectednetworks,Regional,16
+LU,🇱🇺 Luxembourg,Reflectednetworks,External,1
+MO,🇲🇴 Macao,Akamai,Local,65
+MO,🇲🇴 Macao,Alibaba,External,88
+MO,🇲🇴 Macao,Amazon,External,71
+MO,🇲🇴 Macao,Bunnycdn,External,2
+MO,🇲🇴 Macao,Cdn77,External,5
+MO,🇲🇴 Macao,Chinanetcenter,External,1
+MO,🇲🇴 Macao,Cloudflare,Local,373
+MO,🇲🇴 Macao,Facebook,External,7
+MO,🇲🇴 Macao,Fastly,Regional,18
+MO,🇲🇴 Macao,Microsoft,External,10
+MO,🇲🇴 Macao,Other,Local,103
+MO,🇲🇴 Macao,Other,External,246
+MO,🇲🇴 Macao,Reflectednetworks,External,6
+MG,🇲🇬 Madagascar,Other,Local,33
+MG,🇲🇬 Madagascar,Other,External,948
+MW,🇲🇼 Malawi,Other,Local,67
+MW,🇲🇼 Malawi,Other,External,919
+MY,🇲🇾 Malaysia,Akamai,Local,41
+MY,🇲🇾 Malaysia,Alibaba,External,60
+MY,🇲🇾 Malaysia,Amazon,Regional,81
+MY,🇲🇾 Malaysia,Bunnycdn,Regional,5
+MY,🇲🇾 Malaysia,Cdn77,Regional,5
+MY,🇲🇾 Malaysia,Cloudflare,Local,456
+MY,🇲🇾 Malaysia,Facebook,External,10
+MY,🇲🇾 Malaysia,Fastly,Local,13
+MY,🇲🇾 Malaysia,Fastly,Regional,7
+MY,🇲🇾 Malaysia,Microsoft,Local,20
+MY,🇲🇾 Malaysia,Other,Local,113
+MY,🇲🇾 Malaysia,Other,External,178
+MY,🇲🇾 Malaysia,Reflectednetworks,Regional,5
+MV,🇲🇻 Maldives,Akamai,Local,69
+MV,🇲🇻 Maldives,Alibaba,External,3
+MV,🇲🇻 Maldives,Amazon,External,77
+MV,🇲🇻 Maldives,Bunnycdn,External,3
+MV,🇲🇻 Maldives,Cdn77,External,5
+MV,🇲🇻 Maldives,Cloudflare,Local,584
+MV,🇲🇻 Maldives,Facebook,External,8
+MV,🇲🇻 Maldives,Fastly,External,19
+MV,🇲🇻 Maldives,Microsoft,External,15
+MV,🇲🇻 Maldives,Other,Local,14
+MV,🇲🇻 Maldives,Other,External,182
+MV,🇲🇻 Maldives,Reflectednetworks,External,6
+ML,🇲🇱 Mali,Akamai,External,56
+ML,🇲🇱 Mali,Alibaba,Local,2
+ML,🇲🇱 Mali,Alibaba,External,1
+ML,🇲🇱 Mali,Amazon,External,71
+ML,🇲🇱 Mali,Bunnycdn,External,3
+ML,🇲🇱 Mali,Cdn77,External,10
+ML,🇲🇱 Mali,Chinanetcenter,External,1
+ML,🇲🇱 Mali,Cloudflare,External,296
+ML,🇲🇱 Mali,Facebook,External,10
+ML,🇲🇱 Mali,Fastly,External,23
+ML,🇲🇱 Mali,Microsoft,External,9
+ML,🇲🇱 Mali,Other,Local,12
+ML,🇲🇱 Mali,Other,External,478
+ML,🇲🇱 Mali,Reflectednetworks,External,8
+MT,🇲🇹 Malta,Akamai,Local,82
+MT,🇲🇹 Malta,Amazon,External,128
+MT,🇲🇹 Malta,Bunnycdn,External,2
+MT,🇲🇹 Malta,Cdn77,External,7
+MT,🇲🇹 Malta,Cloudflare,Regional,213
+MT,🇲🇹 Malta,Cloudflare,External,232
+MT,🇲🇹 Malta,Facebook,External,9
+MT,🇲🇹 Malta,Fastly,Regional,22
+MT,🇲🇹 Malta,Fastly,External,25
+MT,🇲🇹 Malta,Microsoft,External,32
+MT,🇲🇹 Malta,Other,Local,22
+MT,🇲🇹 Malta,Other,External,215
+MT,🇲🇹 Malta,Reflectednetworks,External,8
+MT,🇲🇹 Malta,Wordpress,External,1
+MH,🇲🇭 Marshall Islands,Akamai,External,34
+MH,🇲🇭 Marshall Islands,Alibaba,External,1
+MH,🇲🇭 Marshall Islands,Amazon,External,49
+MH,🇲🇭 Marshall Islands,Bunnycdn,External,1
+MH,🇲🇭 Marshall Islands,Cdn77,External,6
+MH,🇲🇭 Marshall Islands,Cloudflare,External,108
+MH,🇲🇭 Marshall Islands,Facebook,External,5
+MH,🇲🇭 Marshall Islands,Fastly,External,21
+MH,🇲🇭 Marshall Islands,Microsoft,External,6
+MH,🇲🇭 Marshall Islands,Other,Local,0
+MH,🇲🇭 Marshall Islands,Other,External,0
+MH,🇲🇭 Marshall Islands,Reflectednetworks,External,5
+MQ,🇲🇶 Martinique,Akamai,Local,120
+MQ,🇲🇶 Martinique,Amazon,External,87
+MQ,🇲🇶 Martinique,Bunnycdn,External,3
+MQ,🇲🇶 Martinique,Cdn77,External,4
+MQ,🇲🇶 Martinique,Cloudflare,External,343
+MQ,🇲🇶 Martinique,Facebook,External,7
+MQ,🇲🇶 Martinique,Fastly,External,24
+MQ,🇲🇶 Martinique,Microsoft,External,13
+MQ,🇲🇶 Martinique,Other,Local,4
+MQ,🇲🇶 Martinique,Other,External,383
+MQ,🇲🇶 Martinique,Reflectednetworks,External,7
+MR,🇲🇷 Mauritania,Other,Local,33
+MR,🇲🇷 Mauritania,Other,External,954
+MU,🇲🇺 Mauritius,Akamai,Local,82
+MU,🇲🇺 Mauritius,Alibaba,Local,1
+MU,🇲🇺 Mauritius,Amazon,External,81
+MU,🇲🇺 Mauritius,Bunnycdn,External,3
+MU,🇲🇺 Mauritius,Cdn77,External,9
+MU,🇲🇺 Mauritius,Cloudflare,Local,448
+MU,🇲🇺 Mauritius,Facebook,External,8
+MU,🇲🇺 Mauritius,Fastly,Regional,23
+MU,🇲🇺 Mauritius,Microsoft,External,20
+MU,🇲🇺 Mauritius,Other,Local,77
+MU,🇲🇺 Mauritius,Other,External,230
+MU,🇲🇺 Mauritius,Reflectednetworks,External,10
+YT,🇾🇹 Mayotte,Akamai,External,103
+YT,🇾🇹 Mayotte,Amazon,External,76
+YT,🇾🇹 Mayotte,Bunnycdn,External,3
+YT,🇾🇹 Mayotte,Cdn77,External,4
+YT,🇾🇹 Mayotte,Cloudflare,Regional,341
+YT,🇾🇹 Mayotte,Facebook,External,6
+YT,🇾🇹 Mayotte,Fastly,Regional,27
+YT,🇾🇹 Mayotte,Microsoft,External,12
+YT,🇾🇹 Mayotte,Other,Local,0
+YT,🇾🇹 Mayotte,Other,External,237
+YT,🇾🇹 Mayotte,Reflectednetworks,External,6
+MX,🇲🇽 Mexico,Akamai,Local,116
+MX,🇲🇽 Mexico,Alibaba,External,1
+MX,🇲🇽 Mexico,Amazon,External,149
+MX,🇲🇽 Mexico,Bunnycdn,External,5
+MX,🇲🇽 Mexico,Cdn77,External,7
+MX,🇲🇽 Mexico,Cloudflare,Local,241
+MX,🇲🇽 Mexico,Cloudflare,External,90
+MX,🇲🇽 Mexico,Facebook,External,10
+MX,🇲🇽 Mexico,Fastly,Local,21
+MX,🇲🇽 Mexico,Fastly,External,24
+MX,🇲🇽 Mexico,Microsoft,Local,33
+MX,🇲🇽 Mexico,Other,Local,88
+MX,🇲🇽 Mexico,Other,External,203
+MX,🇲🇽 Mexico,Reflectednetworks,External,7
+FM,🇫🇲 Micronesia,Akamai,External,49
+FM,🇫🇲 Micronesia,Alibaba,External,1
+FM,🇫🇲 Micronesia,Amazon,External,67
+FM,🇫🇲 Micronesia,Bunnycdn,External,2
+FM,🇫🇲 Micronesia,Cdn77,External,12
+FM,🇫🇲 Micronesia,Cloudflare,External,227
+FM,🇫🇲 Micronesia,Facebook,External,9
+FM,🇫🇲 Micronesia,Fastly,External,25
+FM,🇫🇲 Micronesia,Microsoft,External,10
+FM,🇫🇲 Micronesia,Other,Local,8
+FM,🇫🇲 Micronesia,Other,External,145
+FM,🇫🇲 Micronesia,Reflectednetworks,External,9
+MD,🇲🇩 Moldova,Akamai,Local,34
+MD,🇲🇩 Moldova,Alibaba,External,1
+MD,🇲🇩 Moldova,Amazon,External,39
+MD,🇲🇩 Moldova,Bunnycdn,External,2
+MD,🇲🇩 Moldova,Cdn77,External,3
+MD,🇲🇩 Moldova,Cloudflare,Regional,155
+MD,🇲🇩 Moldova,Cloudflare,External,166
+MD,🇲🇩 Moldova,Facebook,External,6
+MD,🇲🇩 Moldova,Fastly,Regional,8
+MD,🇲🇩 Moldova,Fastly,External,5
+MD,🇲🇩 Moldova,Microsoft,External,4
+MD,🇲🇩 Moldova,Other,Local,159
+MD,🇲🇩 Moldova,Other,External,412
+MD,🇲🇩 Moldova,Reflectednetworks,External,6
+MC,🇲🇨 Monaco,Akamai,Local,203
+MC,🇲🇨 Monaco,Amazon,External,146
+MC,🇲🇨 Monaco,Bunnycdn,Regional,1
+MC,🇲🇨 Monaco,Cdn77,Regional,6
+MC,🇲🇨 Monaco,Cloudflare,Regional,280
+MC,🇲🇨 Monaco,Facebook,External,8
+MC,🇲🇨 Monaco,Fastly,Regional,55
+MC,🇲🇨 Monaco,Microsoft,External,23
+MC,🇲🇨 Monaco,Other,Local,36
+MC,🇲🇨 Monaco,Other,External,238
+MC,🇲🇨 Monaco,Reflectednetworks,External,4
+MN,🇲🇳 Mongolia,Akamai,Local,39
+MN,🇲🇳 Mongolia,Alibaba,External,4
+MN,🇲🇳 Mongolia,Amazon,Regional,67
+MN,🇲🇳 Mongolia,Bunnycdn,External,2
+MN,🇲🇳 Mongolia,Cdn77,External,3
+MN,🇲🇳 Mongolia,Cloudflare,Local,388
+MN,🇲🇳 Mongolia,Facebook,External,8
+MN,🇲🇳 Mongolia,Fastly,External,16
+MN,🇲🇳 Mongolia,Microsoft,External,10
+MN,🇲🇳 Mongolia,Other,Local,236
+MN,🇲🇳 Mongolia,Other,External,214
+MN,🇲🇳 Mongolia,Reflectednetworks,External,6
+ME,🇲🇪 Montenegro,Akamai,External,40
+ME,🇲🇪 Montenegro,Amazon,External,60
+ME,🇲🇪 Montenegro,Bunnycdn,External,2
+ME,🇲🇪 Montenegro,Cdn77,External,20
+ME,🇲🇪 Montenegro,Cloudflare,Regional,402
+ME,🇲🇪 Montenegro,Facebook,External,7
+ME,🇲🇪 Montenegro,Fastly,External,17
+ME,🇲🇪 Montenegro,Microsoft,External,9
+ME,🇲🇪 Montenegro,Other,Local,41
+ME,🇲🇪 Montenegro,Other,External,392
+ME,🇲🇪 Montenegro,Reflectednetworks,External,8
+MS,🇲🇸 Montserrat,Other,Local,1
+MS,🇲🇸 Montserrat,Other,External,114
+MA,🇲🇦 Morocco,Akamai,Local,65
+MA,🇲🇦 Morocco,Amazon,External,72
+MA,🇲🇦 Morocco,Bunnycdn,External,3
+MA,🇲🇦 Morocco,Cdn77,External,7
+MA,🇲🇦 Morocco,Cloudflare,External,437
+MA,🇲🇦 Morocco,Facebook,External,10
+MA,🇲🇦 Morocco,Fastly,External,22
+MA,🇲🇦 Morocco,Microsoft,Local,15
+MA,🇲🇦 Morocco,Other,Local,116
+MA,🇲🇦 Morocco,Other,External,229
+MA,🇲🇦 Morocco,Reflectednetworks,External,11
+MZ,🇲🇿 Mozambique,Other,Local,74
+MZ,🇲🇿 Mozambique,Other,External,908
+MM,🇲🇲 Myanmar,Akamai,Local,32
+MM,🇲🇲 Myanmar,Alibaba,External,25
+MM,🇲🇲 Myanmar,Amazon,Regional,55
+MM,🇲🇲 Myanmar,Amazon,External,11
+MM,🇲🇲 Myanmar,Bunnycdn,Regional,3
+MM,🇲🇲 Myanmar,Cdn77,Regional,6
+MM,🇲🇲 Myanmar,Cdn77,External,2
+MM,🇲🇲 Myanmar,Cloudflare,Regional,581
+MM,🇲🇲 Myanmar,Facebook,External,4
+MM,🇲🇲 Myanmar,Fastly,Regional,23
+MM,🇲🇲 Myanmar,Microsoft,External,14
+MM,🇲🇲 Myanmar,Other,Local,25
+MM,🇲🇲 Myanmar,Other,External,201
+MM,🇲🇲 Myanmar,Reflectednetworks,Regional,8
+MM,🇲🇲 Myanmar,Reflectednetworks,External,1
+NA,🇳🇦 Namibia,Akamai,External,60
+NA,🇳🇦 Namibia,Alibaba,External,3
+NA,🇳🇦 Namibia,Amazon,External,135
+NA,🇳🇦 Namibia,Bunnycdn,External,3
+NA,🇳🇦 Namibia,Cdn77,External,7
+NA,🇳🇦 Namibia,Cloudflare,Local,223
+NA,🇳🇦 Namibia,Cloudflare,External,170
+NA,🇳🇦 Namibia,Facebook,External,8
+NA,🇳🇦 Namibia,Fastly,External,28
+NA,🇳🇦 Namibia,Microsoft,External,22
+NA,🇳🇦 Namibia,Other,Local,61
+NA,🇳🇦 Namibia,Other,External,265
+NA,🇳🇦 Namibia,Reflectednetworks,External,5
+NR,🇳🇷 Nauru,Other,Local,2
+NR,🇳🇷 Nauru,Other,External,34
+NP,🇳🇵 Nepal,Akamai,Local,33
+NP,🇳🇵 Nepal,Alibaba,External,11
+NP,🇳🇵 Nepal,Amazon,External,49
+NP,🇳🇵 Nepal,Bunnycdn,External,1
+NP,🇳🇵 Nepal,Cdn77,External,4
+NP,🇳🇵 Nepal,Cloudflare,Local,396
+NP,🇳🇵 Nepal,Cloudflare,External,75
+NP,🇳🇵 Nepal,Facebook,External,8
+NP,🇳🇵 Nepal,Fastly,Regional,16
+NP,🇳🇵 Nepal,Microsoft,External,10
+NP,🇳🇵 Nepal,Other,Local,223
+NP,🇳🇵 Nepal,Other,External,158
+NP,🇳🇵 Nepal,Reflectednetworks,External,6
+NL,🇳🇱 Netherlands,Akamai,Local,122
+NL,🇳🇱 Netherlands,Amazon,Local,133
+NL,🇳🇱 Netherlands,Bunnycdn,Local,3
+NL,🇳🇱 Netherlands,Cdn77,Local,5
+NL,🇳🇱 Netherlands,Cloudflare,Local,379
+NL,🇳🇱 Netherlands,Facebook,External,5
+NL,🇳🇱 Netherlands,Fastly,Local,28
+NL,🇳🇱 Netherlands,Microsoft,Local,33
+NL,🇳🇱 Netherlands,Netflix,Local,1
+NL,🇳🇱 Netherlands,Other,Local,141
+NL,🇳🇱 Netherlands,Other,External,132
+NL,🇳🇱 Netherlands,Reflectednetworks,Local,11
+NL,🇳🇱 Netherlands,Wordpress,Local,2
+NC,🇳🇨 New Caledonia,Akamai,Local,91
+NC,🇳🇨 New Caledonia,Amazon,External,79
+NC,🇳🇨 New Caledonia,Bunnycdn,External,3
+NC,🇳🇨 New Caledonia,Cdn77,External,4
+NC,🇳🇨 New Caledonia,Cloudflare,Local,321
+NC,🇳🇨 New Caledonia,Facebook,External,8
+NC,🇳🇨 New Caledonia,Fastly,External,26
+NC,🇳🇨 New Caledonia,Microsoft,External,8
+NC,🇳🇨 New Caledonia,Other,Local,120
+NC,🇳🇨 New Caledonia,Other,External,327
+NC,🇳🇨 New Caledonia,Reflectednetworks,External,8
+NZ,🇳🇿 New Zealand,Akamai,Local,98
+NZ,🇳🇿 New Zealand,Alibaba,External,1
+NZ,🇳🇿 New Zealand,Amazon,Regional,176
+NZ,🇳🇿 New Zealand,Bunnycdn,Local,1
+NZ,🇳🇿 New Zealand,Cdn77,Regional,2
+NZ,🇳🇿 New Zealand,Cloudflare,Local,369
+NZ,🇳🇿 New Zealand,Facebook,External,8
+NZ,🇳🇿 New Zealand,Fastly,Local,79
+NZ,🇳🇿 New Zealand,Microsoft,Local,43
+NZ,🇳🇿 New Zealand,Other,Local,74
+NZ,🇳🇿 New Zealand,Other,External,142
+NZ,🇳🇿 New Zealand,Reflectednetworks,External,5
+NI,🇳🇮 Nicaragua,Akamai,Local,61
+NI,🇳🇮 Nicaragua,Alibaba,External,3
+NI,🇳🇮 Nicaragua,Amazon,External,103
+NI,🇳🇮 Nicaragua,Bunnycdn,External,4
+NI,🇳🇮 Nicaragua,Cdn77,External,9
+NI,🇳🇮 Nicaragua,Cloudflare,Regional,40
+NI,🇳🇮 Nicaragua,Cloudflare,External,375
+NI,🇳🇮 Nicaragua,Facebook,External,9
+NI,🇳🇮 Nicaragua,Fastly,External,41
+NI,🇳🇮 Nicaragua,Microsoft,External,22
+NI,🇳🇮 Nicaragua,Other,Local,52
+NI,🇳🇮 Nicaragua,Other,External,258
+NI,🇳🇮 Nicaragua,Reflectednetworks,External,9
+NE,🇳🇪 Niger,Akamai,External,69
+NE,🇳🇪 Niger,Alibaba,External,5
+NE,🇳🇪 Niger,Amazon,External,73
+NE,🇳🇪 Niger,Bunnycdn,External,3
+NE,🇳🇪 Niger,Cdn77,External,11
+NE,🇳🇪 Niger,Chinanetcenter,External,1
+NE,🇳🇪 Niger,Cloudflare,External,349
+NE,🇳🇪 Niger,Facebook,External,12
+NE,🇳🇪 Niger,Fastly,External,36
+NE,🇳🇪 Niger,Microsoft,External,13
+NE,🇳🇪 Niger,Netflix,Regional,1
+NE,🇳🇪 Niger,Other,Local,7
+NE,🇳🇪 Niger,Other,External,365
+NE,🇳🇪 Niger,Reflectednetworks,External,9
+NG,🇳🇬 Nigeria,Akamai,Local,49
+NG,🇳🇬 Nigeria,Alibaba,External,3
+NG,🇳🇬 Nigeria,Amazon,External,118
+NG,🇳🇬 Nigeria,Bunnycdn,External,1
+NG,🇳🇬 Nigeria,Cdn77,External,7
+NG,🇳🇬 Nigeria,Cloudflare,External,429
+NG,🇳🇬 Nigeria,Facebook,External,11
+NG,🇳🇬 Nigeria,Fastly,External,29
+NG,🇳🇬 Nigeria,Microsoft,Local,22
+NG,🇳🇬 Nigeria,Other,Local,33
+NG,🇳🇬 Nigeria,Other,External,281
+NG,🇳🇬 Nigeria,Reflectednetworks,External,3
+MK,🇲🇰 North Macedonia,Akamai,Local,44
+MK,🇲🇰 North Macedonia,Amazon,External,56
+MK,🇲🇰 North Macedonia,Bunnycdn,External,2
+MK,🇲🇰 North Macedonia,Cdn77,External,11
+MK,🇲🇰 North Macedonia,Cloudflare,External,389
+MK,🇲🇰 North Macedonia,Facebook,External,7
+MK,🇲🇰 North Macedonia,Fastly,External,17
+MK,🇲🇰 North Macedonia,Microsoft,External,21
+MK,🇲🇰 North Macedonia,Other,Local,120
+MK,🇲🇰 North Macedonia,Other,External,322
+MK,🇲🇰 North Macedonia,Reflectednetworks,External,9
+MP,🇲🇵 Northern Mariana Islands,Akamai,Local,149
+MP,🇲🇵 Northern Mariana Islands,Alibaba,External,1
+MP,🇲🇵 Northern Mariana Islands,Amazon,External,147
+MP,🇲🇵 Northern Mariana Islands,Bunnycdn,External,2
+MP,🇲🇵 Northern Mariana Islands,Cdn77,External,4
+MP,🇲🇵 Northern Mariana Islands,Chinanetcenter,External,1
+MP,🇲🇵 Northern Mariana Islands,Cloudflare,Regional,312
+MP,🇲🇵 Northern Mariana Islands,Facebook,External,11
+MP,🇲🇵 Northern Mariana Islands,Fastly,External,89
+MP,🇲🇵 Northern Mariana Islands,Microsoft,External,22
+MP,🇲🇵 Northern Mariana Islands,Other,Local,0
+MP,🇲🇵 Northern Mariana Islands,Other,External,0
+MP,🇲🇵 Northern Mariana Islands,Reflectednetworks,External,7
+NO,🇳🇴 Norway,Akamai,Local,60
+NO,🇳🇴 Norway,Amazon,Local,48
+NO,🇳🇴 Norway,Amazon,Regional,96
+NO,🇳🇴 Norway,Bunnycdn,Regional,2
+NO,🇳🇴 Norway,Cdn77,Regional,2
+NO,🇳🇴 Norway,Cdn77,External,1
+NO,🇳🇴 Norway,Cloudflare,Local,354
+NO,🇳🇴 Norway,Facebook,External,5
+NO,🇳🇴 Norway,Fastly,Local,38
+NO,🇳🇴 Norway,Fastly,Regional,2
+NO,🇳🇴 Norway,Microsoft,Local,83
+NO,🇳🇴 Norway,Other,Local,136
+NO,🇳🇴 Norway,Other,External,160
+NO,🇳🇴 Norway,Reflectednetworks,External,10
+NO,🇳🇴 Norway,Wordpress,Regional,3
+OM,🇴🇲 Oman,Akamai,Local,59
+OM,🇴🇲 Oman,Alibaba,External,1
+OM,🇴🇲 Oman,Amazon,External,63
+OM,🇴🇲 Oman,Bunnycdn,External,1
+OM,🇴🇲 Oman,Cdn77,External,6
+OM,🇴🇲 Oman,Cloudflare,Local,534
+OM,🇴🇲 Oman,Facebook,External,7
+OM,🇴🇲 Oman,Fastly,Regional,5
+OM,🇴🇲 Oman,Fastly,External,12
+OM,🇴🇲 Oman,Microsoft,External,14
+OM,🇴🇲 Oman,Other,Local,93
+OM,🇴🇲 Oman,Other,External,170
+OM,🇴🇲 Oman,Reflectednetworks,External,6
+PK,🇵🇰 Pakistan,Akamai,Local,38
+PK,🇵🇰 Pakistan,Alibaba,External,9
+PK,🇵🇰 Pakistan,Amazon,External,115
+PK,🇵🇰 Pakistan,Bunnycdn,External,1
+PK,🇵🇰 Pakistan,Cdn77,External,3
+PK,🇵🇰 Pakistan,Cloudflare,Local,130
+PK,🇵🇰 Pakistan,Cloudflare,External,378
+PK,🇵🇰 Pakistan,Facebook,External,10
+PK,🇵🇰 Pakistan,Fastly,External,14
+PK,🇵🇰 Pakistan,Microsoft,External,3
+PK,🇵🇰 Pakistan,Netflix,Local,1
+PK,🇵🇰 Pakistan,Other,Local,77
+PK,🇵🇰 Pakistan,Other,External,204
+PK,🇵🇰 Pakistan,Reflectednetworks,External,5
+PW,🇵🇼 Palau,Other,Local,3
+PW,🇵🇼 Palau,Other,External,351
+PS,🇵🇸 Palestine,Other,Local,44
+PS,🇵🇸 Palestine,Other,External,934
+PA,🇵🇦 Panama,Akamai,Local,66
+PA,🇵🇦 Panama,Amazon,External,125
+PA,🇵🇦 Panama,Bunnycdn,External,5
+PA,🇵🇦 Panama,Cdn77,External,7
+PA,🇵🇦 Panama,Cloudflare,Local,189
+PA,🇵🇦 Panama,Cloudflare,External,196
+PA,🇵🇦 Panama,Facebook,External,9
+PA,🇵🇦 Panama,Fastly,External,47
+PA,🇵🇦 Panama,Microsoft,External,41
+PA,🇵🇦 Panama,Other,Local,69
+PA,🇵🇦 Panama,Other,External,234
+PA,🇵🇦 Panama,Reflectednetworks,External,8
+PG,🇵🇬 Papua New Guinea,Akamai,External,42
+PG,🇵🇬 Papua New Guinea,Alibaba,External,145
+PG,🇵🇬 Papua New Guinea,Amazon,External,103
+PG,🇵🇬 Papua New Guinea,Bunnycdn,External,4
+PG,🇵🇬 Papua New Guinea,Cdn77,External,10
+PG,🇵🇬 Papua New Guinea,Cloudflare,External,400
+PG,🇵🇬 Papua New Guinea,Facebook,External,6
+PG,🇵🇬 Papua New Guinea,Fastly,External,27
+PG,🇵🇬 Papua New Guinea,Microsoft,External,13
+PG,🇵🇬 Papua New Guinea,Other,Local,18
+PG,🇵🇬 Papua New Guinea,Other,External,217
+PG,🇵🇬 Papua New Guinea,Reflectednetworks,External,5
+PY,🇵🇾 Paraguay,Akamai,Local,66
+PY,🇵🇾 Paraguay,Alibaba,External,1
+PY,🇵🇾 Paraguay,Amazon,External,104
+PY,🇵🇾 Paraguay,Bunnycdn,External,6
+PY,🇵🇾 Paraguay,Cdn77,External,10
+PY,🇵🇾 Paraguay,Cloudflare,Local,160
+PY,🇵🇾 Paraguay,Cloudflare,Regional,197
+PY,🇵🇾 Paraguay,Facebook,External,9
+PY,🇵🇾 Paraguay,Fastly,Regional,31
+PY,🇵🇾 Paraguay,Microsoft,External,19
+PY,🇵🇾 Paraguay,Other,Local,146
+PY,🇵🇾 Paraguay,Other,External,231
+PY,🇵🇾 Paraguay,Reflectednetworks,External,8
+PE,🇵🇪 Peru,Akamai,Local,64
+PE,🇵🇪 Peru,Amazon,External,161
+PE,🇵🇪 Peru,Bunnycdn,External,2
+PE,🇵🇪 Peru,Cdn77,External,8
+PE,🇵🇪 Peru,Cloudflare,Regional,323
+PE,🇵🇪 Peru,Facebook,External,11
+PE,🇵🇪 Peru,Fastly,Local,48
+PE,🇵🇪 Peru,Microsoft,External,27
+PE,🇵🇪 Peru,Netflix,Local,1
+PE,🇵🇪 Peru,Other,Local,124
+PE,🇵🇪 Peru,Other,External,217
+PE,🇵🇪 Peru,Reflectednetworks,External,5
+PE,🇵🇪 Peru,Wordpress,Regional,1
+PE,🇵🇪 Peru,Wordpress,External,1
+PH,🇵🇭 Philippines,Akamai,Local,39
+PH,🇵🇭 Philippines,Alibaba,External,10
+PH,🇵🇭 Philippines,Amazon,Regional,117
+PH,🇵🇭 Philippines,Bunnycdn,Regional,1
+PH,🇵🇭 Philippines,Cdn77,Regional,4
+PH,🇵🇭 Philippines,Cloudflare,External,598
+PH,🇵🇭 Philippines,Facebook,External,9
+PH,🇵🇭 Philippines,Fastly,Local,13
+PH,🇵🇭 Philippines,Fastly,External,8
+PH,🇵🇭 Philippines,Microsoft,Local,12
+PH,🇵🇭 Philippines,Other,Local,20
+PH,🇵🇭 Philippines,Other,External,146
+PH,🇵🇭 Philippines,Reflectednetworks,Regional,6
+PL,🇵🇱 Poland,Akamai,Local,65
+PL,🇵🇱 Poland,Amazon,External,84
+PL,🇵🇱 Poland,Bunnycdn,External,7
+PL,🇵🇱 Poland,Cdn77,External,2
+PL,🇵🇱 Poland,Cloudflare,Local,355
+PL,🇵🇱 Poland,Facebook,External,8
+PL,🇵🇱 Poland,Fastly,External,18
+PL,🇵🇱 Poland,Microsoft,Local,14
+PL,🇵🇱 Poland,Netflix,Local,1
+PL,🇵🇱 Poland,Other,Local,249
+PL,🇵🇱 Poland,Other,External,170
+PL,🇵🇱 Poland,Reflectednetworks,External,6
+PL,🇵🇱 Poland,Wordpress,External,12
+PT,🇵🇹 Portugal,Akamai,Local,83
+PT,🇵🇹 Portugal,Amazon,External,123
+PT,🇵🇹 Portugal,Bunnycdn,External,3
+PT,🇵🇹 Portugal,Cdn77,External,5
+PT,🇵🇹 Portugal,Cloudflare,Local,311
+PT,🇵🇹 Portugal,Facebook,External,9
+PT,🇵🇹 Portugal,Fastly,Local,40
+PT,🇵🇹 Portugal,Microsoft,Local,39
+PT,🇵🇹 Portugal,Other,Local,197
+PT,🇵🇹 Portugal,Other,External,168
+PT,🇵🇹 Portugal,Reflectednetworks,External,8
+PR,🇵🇷 Puerto Rico,Akamai,Local,159
+PR,🇵🇷 Puerto Rico,Amazon,External,109
+PR,🇵🇷 Puerto Rico,Bunnycdn,External,2
+PR,🇵🇷 Puerto Rico,Cdn77,External,7
+PR,🇵🇷 Puerto Rico,Cloudflare,External,343
+PR,🇵🇷 Puerto Rico,Facebook,External,9
+PR,🇵🇷 Puerto Rico,Fastly,External,56
+PR,🇵🇷 Puerto Rico,Microsoft,External,59
+PR,🇵🇷 Puerto Rico,Other,Local,55
+PR,🇵🇷 Puerto Rico,Other,External,190
+PR,🇵🇷 Puerto Rico,Reflectednetworks,External,10
+QA,🇶🇦 Qatar,Akamai,Local,73
+QA,🇶🇦 Qatar,Alibaba,External,1
+QA,🇶🇦 Qatar,Amazon,External,73
+QA,🇶🇦 Qatar,Bunnycdn,External,1
+QA,🇶🇦 Qatar,Cdn77,External,6
+QA,🇶🇦 Qatar,Cloudflare,Local,545
+QA,🇶🇦 Qatar,Facebook,External,8
+QA,🇶🇦 Qatar,Fastly,Regional,7
+QA,🇶🇦 Qatar,Fastly,External,17
+QA,🇶🇦 Qatar,Microsoft,Local,37
+QA,🇶🇦 Qatar,Other,Local,38
+QA,🇶🇦 Qatar,Other,External,177
+QA,🇶🇦 Qatar,Reflectednetworks,External,7
+RE,🇷🇪 Réunion,Akamai,Local,104
+RE,🇷🇪 Réunion,Amazon,External,70
+RE,🇷🇪 Réunion,Bunnycdn,External,2
+RE,🇷🇪 Réunion,Cdn77,External,3
+RE,🇷🇪 Réunion,Cloudflare,Local,180
+RE,🇷🇪 Réunion,Cloudflare,Regional,186
+RE,🇷🇪 Réunion,Facebook,External,6
+RE,🇷🇪 Réunion,Fastly,Regional,12
+RE,🇷🇪 Réunion,Fastly,External,14
+RE,🇷🇪 Réunion,Microsoft,External,11
+RE,🇷🇪 Réunion,Other,Local,37
+RE,🇷🇪 Réunion,Other,External,364
+RE,🇷🇪 Réunion,Reflectednetworks,External,6
+RE,🇷🇪 Réunion,Wordpress,Regional,1
+RO,🇷🇴 Romania,Akamai,Local,65
+RO,🇷🇴 Romania,Alibaba,External,1
+RO,🇷🇴 Romania,Amazon,External,81
+RO,🇷🇴 Romania,Bunnycdn,External,1
+RO,🇷🇴 Romania,Cdn77,External,4
+RO,🇷🇴 Romania,Cloudflare,Local,349
+RO,🇷🇴 Romania,Cloudflare,External,59
+RO,🇷🇴 Romania,Facebook,External,9
+RO,🇷🇴 Romania,Fastly,External,18
+RO,🇷🇴 Romania,Microsoft,Local,13
+RO,🇷🇴 Romania,Netflix,Local,1
+RO,🇷🇴 Romania,Other,Local,188
+RO,🇷🇴 Romania,Other,External,196
+RO,🇷🇴 Romania,Reflectednetworks,External,10
+RU,🇷🇺 Russia,Other,Local,643
+RU,🇷🇺 Russia,Other,External,352
+RW,🇷🇼 Rwanda,Other,Local,176
+RW,🇷🇼 Rwanda,Other,External,799
+BL,🇧🇱 Saint Barthélemy,Other,Local,0
+BL,🇧🇱 Saint Barthélemy,Other,External,183
+KN,🇰🇳 Saint Kitts and Nevis,Akamai,External,151
+KN,🇰🇳 Saint Kitts and Nevis,Alibaba,External,1
+KN,🇰🇳 Saint Kitts and Nevis,Amazon,External,156
+KN,🇰🇳 Saint Kitts and Nevis,Bunnycdn,External,2
+KN,🇰🇳 Saint Kitts and Nevis,Cdn77,External,6
+KN,🇰🇳 Saint Kitts and Nevis,Cloudflare,External,320
+KN,🇰🇳 Saint Kitts and Nevis,Facebook,External,8
+KN,🇰🇳 Saint Kitts and Nevis,Fastly,External,62
+KN,🇰🇳 Saint Kitts and Nevis,Microsoft,External,26
+KN,🇰🇳 Saint Kitts and Nevis,Other,Local,2
+KN,🇰🇳 Saint Kitts and Nevis,Other,External,249
+KN,🇰🇳 Saint Kitts and Nevis,Reflectednetworks,External,7
+LC,🇱🇨 Saint Lucia,Akamai,Local,134
+LC,🇱🇨 Saint Lucia,Amazon,External,128
+LC,🇱🇨 Saint Lucia,Bunnycdn,External,5
+LC,🇱🇨 Saint Lucia,Cdn77,External,7
+LC,🇱🇨 Saint Lucia,Cloudflare,External,379
+LC,🇱🇨 Saint Lucia,Facebook,External,9
+LC,🇱🇨 Saint Lucia,Fastly,External,50
+LC,🇱🇨 Saint Lucia,Microsoft,External,21
+LC,🇱🇨 Saint Lucia,Other,Local,14
+LC,🇱🇨 Saint Lucia,Other,External,233
+LC,🇱🇨 Saint Lucia,Reflectednetworks,External,10
+MF,🇲🇫 Saint Martin (French part),Akamai,External,169
+MF,🇲🇫 Saint Martin (French part),Amazon,External,115
+MF,🇲🇫 Saint Martin (French part),Bunnycdn,External,2
+MF,🇲🇫 Saint Martin (French part),Cdn77,External,5
+MF,🇲🇫 Saint Martin (French part),Cloudflare,External,291
+MF,🇲🇫 Saint Martin (French part),Facebook,External,8
+MF,🇲🇫 Saint Martin (French part),Fastly,External,51
+MF,🇲🇫 Saint Martin (French part),Microsoft,External,22
+MF,🇲🇫 Saint Martin (French part),Other,Local,0
+MF,🇲🇫 Saint Martin (French part),Other,External,328
+MF,🇲🇫 Saint Martin (French part),Reflectednetworks,External,7
+PM,🇵🇲 Saint Pierre and Miquelon,Other,Local,5
+PM,🇵🇲 Saint Pierre and Miquelon,Other,External,181
+VC,🇻🇨 Saint Vincent and the Grenadines,Akamai,External,123
+VC,🇻🇨 Saint Vincent and the Grenadines,Amazon,External,146
+VC,🇻🇨 Saint Vincent and the Grenadines,Bunnycdn,External,3
+VC,🇻🇨 Saint Vincent and the Grenadines,Cdn77,External,9
+VC,🇻🇨 Saint Vincent and the Grenadines,Cloudflare,External,364
+VC,🇻🇨 Saint Vincent and the Grenadines,Facebook,External,8
+VC,🇻🇨 Saint Vincent and the Grenadines,Fastly,External,53
+VC,🇻🇨 Saint Vincent and the Grenadines,Microsoft,External,18
+VC,🇻🇨 Saint Vincent and the Grenadines,Other,Local,23
+VC,🇻🇨 Saint Vincent and the Grenadines,Other,External,237
+VC,🇻🇨 Saint Vincent and the Grenadines,Reflectednetworks,External,9
+WS,🇼🇸 Samoa,Other,Local,25
+WS,🇼🇸 Samoa,Other,External,963
+SM,🇸🇲 San Marino,Akamai,External,111
+SM,🇸🇲 San Marino,Alibaba,External,1
+SM,🇸🇲 San Marino,Amazon,External,158
+SM,🇸🇲 San Marino,Bunnycdn,External,4
+SM,🇸🇲 San Marino,Cdn77,External,3
+SM,🇸🇲 San Marino,Cloudflare,Regional,247
+SM,🇸🇲 San Marino,Facebook,External,6
+SM,🇸🇲 San Marino,Fastly,Regional,46
+SM,🇸🇲 San Marino,Microsoft,External,23
+SM,🇸🇲 San Marino,Other,Local,50
+SM,🇸🇲 San Marino,Other,External,344
+SM,🇸🇲 San Marino,Reflectednetworks,External,4
+ST,🇸🇹 Sao Tome and Principe,Akamai,External,67
+ST,🇸🇹 Sao Tome and Principe,Alibaba,External,3
+ST,🇸🇹 Sao Tome and Principe,Amazon,External,78
+ST,🇸🇹 Sao Tome and Principe,Bunnycdn,External,3
+ST,🇸🇹 Sao Tome and Principe,Cdn77,External,9
+ST,🇸🇹 Sao Tome and Principe,Chinanetcenter,External,1
+ST,🇸🇹 Sao Tome and Principe,Cloudflare,Regional,348
+ST,🇸🇹 Sao Tome and Principe,Facebook,External,11
+ST,🇸🇹 Sao Tome and Principe,Fastly,Regional,40
+ST,🇸🇹 Sao Tome and Principe,Microsoft,External,15
+ST,🇸🇹 Sao Tome and Principe,Other,Local,9
+ST,🇸🇹 Sao Tome and Principe,Other,External,265
+ST,🇸🇹 Sao Tome and Principe,Reflectednetworks,External,7
+ST,🇸🇹 Sao Tome and Principe,Wordpress,Regional,1
+SA,🇸🇦 Saudi Arabia,Akamai,Local,62
+SA,🇸🇦 Saudi Arabia,Alibaba,External,2
+SA,🇸🇦 Saudi Arabia,Amazon,External,60
+SA,🇸🇦 Saudi Arabia,Bunnycdn,External,1
+SA,🇸🇦 Saudi Arabia,Cdn77,External,6
+SA,🇸🇦 Saudi Arabia,Cloudflare,Local,543
+SA,🇸🇦 Saudi Arabia,Facebook,External,7
+SA,🇸🇦 Saudi Arabia,Fastly,Regional,2
+SA,🇸🇦 Saudi Arabia,Fastly,External,12
+SA,🇸🇦 Saudi Arabia,Microsoft,External,23
+SA,🇸🇦 Saudi Arabia,Other,Local,116
+SA,🇸🇦 Saudi Arabia,Other,External,154
+SA,🇸🇦 Saudi Arabia,Reflectednetworks,External,8
+SN,🇸🇳 Senegal,Akamai,Local,70
+SN,🇸🇳 Senegal,Alibaba,External,2
+SN,🇸🇳 Senegal,Amazon,External,104
+SN,🇸🇳 Senegal,Bunnycdn,External,3
+SN,🇸🇳 Senegal,Cdn77,External,8
+SN,🇸🇳 Senegal,Cloudflare,Local,331
+SN,🇸🇳 Senegal,Cloudflare,External,44
+SN,🇸🇳 Senegal,Facebook,External,11
+SN,🇸🇳 Senegal,Fastly,External,28
+SN,🇸🇳 Senegal,Microsoft,External,25
+SN,🇸🇳 Senegal,Other,Local,71
+SN,🇸🇳 Senegal,Other,External,282
+SN,🇸🇳 Senegal,Reflectednetworks,External,7
+RS,🇷🇸 Serbia,Akamai,Local,43
+RS,🇷🇸 Serbia,Amazon,External,53
+RS,🇷🇸 Serbia,Bunnycdn,External,2
+RS,🇷🇸 Serbia,Cdn77,External,16
+RS,🇷🇸 Serbia,Cloudflare,Local,309
+RS,🇷🇸 Serbia,Cloudflare,External,55
+RS,🇷🇸 Serbia,Facebook,External,6
+RS,🇷🇸 Serbia,Fastly,External,15
+RS,🇷🇸 Serbia,Microsoft,External,13
+RS,🇷🇸 Serbia,Other,Local,173
+RS,🇷🇸 Serbia,Other,External,307
+RS,🇷🇸 Serbia,Reflectednetworks,External,6
+SC,🇸🇨 Seychelles,Akamai,External,113
+SC,🇸🇨 Seychelles,Alibaba,External,4
+SC,🇸🇨 Seychelles,Amazon,External,113
+SC,🇸🇨 Seychelles,Bunnycdn,External,3
+SC,🇸🇨 Seychelles,Cdn77,External,9
+SC,🇸🇨 Seychelles,Cloudflare,Regional,399
+SC,🇸🇨 Seychelles,Facebook,External,8
+SC,🇸🇨 Seychelles,Fastly,Regional,37
+SC,🇸🇨 Seychelles,Keycdn,External,1
+SC,🇸🇨 Seychelles,Microsoft,External,9
+SC,🇸🇨 Seychelles,Netflix,Local,1
+SC,🇸🇨 Seychelles,Other,Local,23
+SC,🇸🇨 Seychelles,Other,External,260
+SC,🇸🇨 Seychelles,Reflectednetworks,External,14
+SC,🇸🇨 Seychelles,Wordpress,Regional,1
+SL,🇸🇱 Sierra Leone,Akamai,External,74
+SL,🇸🇱 Sierra Leone,Alibaba,External,6
+SL,🇸🇱 Sierra Leone,Amazon,External,120
+SL,🇸🇱 Sierra Leone,Bunnycdn,External,2
+SL,🇸🇱 Sierra Leone,Cdn77,External,11
+SL,🇸🇱 Sierra Leone,Chinanetcenter,External,1
+SL,🇸🇱 Sierra Leone,Cloudflare,External,460
+SL,🇸🇱 Sierra Leone,Facebook,External,9
+SL,🇸🇱 Sierra Leone,Fastly,External,38
+SL,🇸🇱 Sierra Leone,Microsoft,External,22
+SL,🇸🇱 Sierra Leone,Netflix,Local,1
+SL,🇸🇱 Sierra Leone,Other,Local,6
+SL,🇸🇱 Sierra Leone,Other,External,238
+SL,🇸🇱 Sierra Leone,Reflectednetworks,External,8
+SG,🇸🇬 Singapore,Akamai,Local,87
+SG,🇸🇬 Singapore,Alibaba,External,14
+SG,🇸🇬 Singapore,Amazon,Local,116
+SG,🇸🇬 Singapore,Bunnycdn,Local,2
+SG,🇸🇬 Singapore,Cdn77,Local,6
+SG,🇸🇬 Singapore,Cdn77,External,1
+SG,🇸🇬 Singapore,Cloudflare,Local,464
+SG,🇸🇬 Singapore,Facebook,External,10
+SG,🇸🇬 Singapore,Fastly,Local,30
+SG,🇸🇬 Singapore,Microsoft,Local,18
+SG,🇸🇬 Singapore,Other,Local,49
+SG,🇸🇬 Singapore,Other,External,189
+SG,🇸🇬 Singapore,Reflectednetworks,Local,8
+SX,🇸🇽 Sint Maarten (Dutch part),Akamai,Local,179
+SX,🇸🇽 Sint Maarten (Dutch part),Alibaba,External,1
+SX,🇸🇽 Sint Maarten (Dutch part),Amazon,External,154
+SX,🇸🇽 Sint Maarten (Dutch part),Bunnycdn,External,3
+SX,🇸🇽 Sint Maarten (Dutch part),Cdn77,External,7
+SX,🇸🇽 Sint Maarten (Dutch part),Cloudflare,External,270
+SX,🇸🇽 Sint Maarten (Dutch part),Facebook,External,8
+SX,🇸🇽 Sint Maarten (Dutch part),Fastly,External,79
+SX,🇸🇽 Sint Maarten (Dutch part),Microsoft,External,27
+SX,🇸🇽 Sint Maarten (Dutch part),Other,Local,4
+SX,🇸🇽 Sint Maarten (Dutch part),Other,External,250
+SX,🇸🇽 Sint Maarten (Dutch part),Reflectednetworks,External,7
+SK,🇸🇰 Slovakia,Akamai,Local,50
+SK,🇸🇰 Slovakia,Amazon,External,43
+SK,🇸🇰 Slovakia,Bunnycdn,External,1
+SK,🇸🇰 Slovakia,Cdn77,External,2
+SK,🇸🇰 Slovakia,Cloudflare,Local,86
+SK,🇸🇰 Slovakia,Cloudflare,Regional,67
+SK,🇸🇰 Slovakia,Cloudflare,External,160
+SK,🇸🇰 Slovakia,Facebook,External,4
+SK,🇸🇰 Slovakia,Fastly,External,13
+SK,🇸🇰 Slovakia,Microsoft,External,19
+SK,🇸🇰 Slovakia,Netflix,Local,1
+SK,🇸🇰 Slovakia,Other,Local,217
+SK,🇸🇰 Slovakia,Other,External,321
+SK,🇸🇰 Slovakia,Reflectednetworks,External,6
+SI,🇸🇮 Slovenia,Akamai,Local,51
+SI,🇸🇮 Slovenia,Amazon,External,44
+SI,🇸🇮 Slovenia,Bunnycdn,External,3
+SI,🇸🇮 Slovenia,Cdn77,External,5
+SI,🇸🇮 Slovenia,Cloudflare,External,310
+SI,🇸🇮 Slovenia,Facebook,External,6
+SI,🇸🇮 Slovenia,Fastly,External,30
+SI,🇸🇮 Slovenia,Microsoft,External,18
+SI,🇸🇮 Slovenia,Netflix,Local,1
+SI,🇸🇮 Slovenia,Other,Local,308
+SI,🇸🇮 Slovenia,Other,External,216
+SI,🇸🇮 Slovenia,Reflectednetworks,External,7
+SB,🇸🇧 Solomon Islands,Akamai,External,73
+SB,🇸🇧 Solomon Islands,Amazon,External,120
+SB,🇸🇧 Solomon Islands,Bunnycdn,External,3
+SB,🇸🇧 Solomon Islands,Cdn77,External,9
+SB,🇸🇧 Solomon Islands,Chinanetcenter,External,1
+SB,🇸🇧 Solomon Islands,Cloudflare,External,428
+SB,🇸🇧 Solomon Islands,Facebook,External,11
+SB,🇸🇧 Solomon Islands,Fastly,External,46
+SB,🇸🇧 Solomon Islands,Microsoft,External,20
+SB,🇸🇧 Solomon Islands,Netflix,External,1
+SB,🇸🇧 Solomon Islands,Other,Local,14
+SB,🇸🇧 Solomon Islands,Other,External,253
+SB,🇸🇧 Solomon Islands,Reflectednetworks,External,9
+SO,🇸🇴 Somalia,Akamai,External,39
+SO,🇸🇴 Somalia,Alibaba,External,4
+SO,🇸🇴 Somalia,Amazon,External,58
+SO,🇸🇴 Somalia,Bunnycdn,External,3
+SO,🇸🇴 Somalia,Cdn77,External,7
+SO,🇸🇴 Somalia,Chinanetcenter,External,1
+SO,🇸🇴 Somalia,Cloudflare,External,538
+SO,🇸🇴 Somalia,Facebook,External,8
+SO,🇸🇴 Somalia,Fastly,External,29
+SO,🇸🇴 Somalia,Microsoft,External,12
+SO,🇸🇴 Somalia,Netflix,External,1
+SO,🇸🇴 Somalia,Other,Local,19
+SO,🇸🇴 Somalia,Other,External,266
+SO,🇸🇴 Somalia,Reflectednetworks,External,11
+ZA,🇿🇦 South Africa,Akamai,Local,54
+ZA,🇿🇦 South Africa,Alibaba,External,2
+ZA,🇿🇦 South Africa,Amazon,External,139
+ZA,🇿🇦 South Africa,Bunnycdn,External,1
+ZA,🇿🇦 South Africa,Cdn77,External,5
+ZA,🇿🇦 South Africa,Cloudflare,Local,426
+ZA,🇿🇦 South Africa,Facebook,External,7
+ZA,🇿🇦 South Africa,Fastly,Local,19
+ZA,🇿🇦 South Africa,Fastly,External,1
+ZA,🇿🇦 South Africa,Microsoft,Local,57
+ZA,🇿🇦 South Africa,Other,Local,137
+ZA,🇿🇦 South Africa,Other,External,146
+ZA,🇿🇦 South Africa,Reflectednetworks,External,4
+KR,🇰🇷 South Korea,Akamai,Local,64
+KR,🇰🇷 South Korea,Alibaba,External,1
+KR,🇰🇷 South Korea,Cloudflare,Local,324
+KR,🇰🇷 South Korea,Microsoft,Local,3
+KR,🇰🇷 South Korea,Netflix,Regional,1
+KR,🇰🇷 South Korea,Other,Local,432
+KR,🇰🇷 South Korea,Other,External,166
+KR,🇰🇷 South Korea,Reflectednetworks,External,1
+SS,🇸🇸 South Sudan,Akamai,External,64
+SS,🇸🇸 South Sudan,Alibaba,External,3
+SS,🇸🇸 South Sudan,Amazon,External,97
+SS,🇸🇸 South Sudan,Bunnycdn,External,2
+SS,🇸🇸 South Sudan,Cdn77,External,8
+SS,🇸🇸 South Sudan,Chinanetcenter,External,1
+SS,🇸🇸 South Sudan,Cloudflare,Regional,487
+SS,🇸🇸 South Sudan,Facebook,External,11
+SS,🇸🇸 South Sudan,Microsoft,External,15
+SS,🇸🇸 South Sudan,Other,Local,2
+SS,🇸🇸 South Sudan,Other,External,292
+SS,🇸🇸 South Sudan,Reflectednetworks,External,10
+ES,🇪🇸 Spain,Akamai,Local,118
+ES,🇪🇸 Spain,Alibaba,External,1
+ES,🇪🇸 Spain,Amazon,External,147
+ES,🇪🇸 Spain,Bunnycdn,External,3
+ES,🇪🇸 Spain,Cdn77,External,22
+ES,🇪🇸 Spain,Cloudflare,Local,288
+ES,🇪🇸 Spain,Facebook,External,7
+ES,🇪🇸 Spain,Fastly,Local,104
+ES,🇪🇸 Spain,Microsoft,Local,11
+ES,🇪🇸 Spain,Other,Local,148
+ES,🇪🇸 Spain,Other,External,142
+ES,🇪🇸 Spain,Reflectednetworks,External,7
+LK,🇱🇰 Sri Lanka,Akamai,Local,41
+LK,🇱🇰 Sri Lanka,Alibaba,External,6
+LK,🇱🇰 Sri Lanka,Amazon,External,83
+LK,🇱🇰 Sri Lanka,Bunnycdn,External,2
+LK,🇱🇰 Sri Lanka,Cdn77,External,5
+LK,🇱🇰 Sri Lanka,Cloudflare,Local,237
+LK,🇱🇰 Sri Lanka,Cloudflare,External,208
+LK,🇱🇰 Sri Lanka,Facebook,External,10
+LK,🇱🇰 Sri Lanka,Fastly,External,17
+LK,🇱🇰 Sri Lanka,Microsoft,External,18
+LK,🇱🇰 Sri Lanka,Other,Local,100
+LK,🇱🇰 Sri Lanka,Other,External,256
+LK,🇱🇰 Sri Lanka,Reflectednetworks,External,7
+SD,🇸🇩 Sudan,Other,Local,14
+SD,🇸🇩 Sudan,Other,External,968
+SR,🇸🇷 Suriname,Akamai,Local,87
+SR,🇸🇷 Suriname,Alibaba,External,1
+SR,🇸🇷 Suriname,Amazon,External,78
+SR,🇸🇷 Suriname,Bunnycdn,External,6
+SR,🇸🇷 Suriname,Cdn77,External,8
+SR,🇸🇷 Suriname,Cloudflare,Local,380
+SR,🇸🇷 Suriname,Cloudflare,External,67
+SR,🇸🇷 Suriname,Facebook,External,9
+SR,🇸🇷 Suriname,Fastly,External,32
+SR,🇸🇷 Suriname,Microsoft,External,16
+SR,🇸🇷 Suriname,Netflix,Local,1
+SR,🇸🇷 Suriname,Other,Local,21
+SR,🇸🇷 Suriname,Other,External,270
+SR,🇸🇷 Suriname,Reflectednetworks,External,15
+SE,🇸🇪 Sweden,Akamai,Local,63
+SE,🇸🇪 Sweden,Amazon,Local,91
+SE,🇸🇪 Sweden,Amazon,Regional,48
+SE,🇸🇪 Sweden,Bunnycdn,Local,2
+SE,🇸🇪 Sweden,Cdn77,Local,3
+SE,🇸🇪 Sweden,Cloudflare,Local,289
+SE,🇸🇪 Sweden,Cloudflare,External,22
+SE,🇸🇪 Sweden,Facebook,External,5
+SE,🇸🇪 Sweden,Fastly,Local,90
+SE,🇸🇪 Sweden,Microsoft,Local,48
+SE,🇸🇪 Sweden,Other,Local,194
+SE,🇸🇪 Sweden,Other,External,135
+SE,🇸🇪 Sweden,Reflectednetworks,External,6
+SE,🇸🇪 Sweden,Wordpress,Local,1
+CH,🇨🇭 Switzerland,Akamai,Local,130
+CH,🇨🇭 Switzerland,Amazon,Regional,102
+CH,🇨🇭 Switzerland,Bunnycdn,Regional,2
+CH,🇨🇭 Switzerland,Cdn77,Regional,8
+CH,🇨🇭 Switzerland,Cloudflare,Local,305
+CH,🇨🇭 Switzerland,Cloudflare,Regional,11
+CH,🇨🇭 Switzerland,Facebook,External,6
+CH,🇨🇭 Switzerland,Fastly,Regional,45
+CH,🇨🇭 Switzerland,Microsoft,Local,26
+CH,🇨🇭 Switzerland,Other,Local,141
+CH,🇨🇭 Switzerland,Other,External,203
+CH,🇨🇭 Switzerland,Reflectednetworks,Regional,12
+SY,🇸🇾 Syria,Other,Local,24
+SY,🇸🇾 Syria,Other,External,957
+TW,🇹🇼 Taiwan,Akamai,Local,74
+TW,🇹🇼 Taiwan,Alibaba,External,17
+TW,🇹🇼 Taiwan,Amazon,Regional,116
+TW,🇹🇼 Taiwan,Bunnycdn,Regional,2
+TW,🇹🇼 Taiwan,Cdn77,Regional,3
+TW,🇹🇼 Taiwan,Cloudflare,Local,333
+TW,🇹🇼 Taiwan,Facebook,External,7
+TW,🇹🇼 Taiwan,Fastly,Regional,14
+TW,🇹🇼 Taiwan,Fastly,External,4
+TW,🇹🇼 Taiwan,Microsoft,Local,16
+TW,🇹🇼 Taiwan,Other,Local,211
+TW,🇹🇼 Taiwan,Other,External,187
+TW,🇹🇼 Taiwan,Reflectednetworks,External,3
+TJ,🇹🇯 Tajikistan,Akamai,External,26
+TJ,🇹🇯 Tajikistan,Alibaba,External,1
+TJ,🇹🇯 Tajikistan,Amazon,External,37
+TJ,🇹🇯 Tajikistan,Bunnycdn,External,3
+TJ,🇹🇯 Tajikistan,Cdn77,External,3
+TJ,🇹🇯 Tajikistan,Cloudflare,External,224
+TJ,🇹🇯 Tajikistan,Facebook,External,8
+TJ,🇹🇯 Tajikistan,Fastly,External,12
+TJ,🇹🇯 Tajikistan,Microsoft,External,2
+TJ,🇹🇯 Tajikistan,Other,Local,88
+TJ,🇹🇯 Tajikistan,Other,External,575
+TJ,🇹🇯 Tajikistan,Reflectednetworks,External,6
+TZ,🇹🇿 Tanzania,Akamai,Local,47
+TZ,🇹🇿 Tanzania,Amazon,External,81
+TZ,🇹🇿 Tanzania,Bunnycdn,External,1
+TZ,🇹🇿 Tanzania,Cdn77,External,8
+TZ,🇹🇿 Tanzania,Cloudflare,Local,219
+TZ,🇹🇿 Tanzania,Cloudflare,Regional,151
+TZ,🇹🇿 Tanzania,Facebook,External,8
+TZ,🇹🇿 Tanzania,Fastly,Regional,24
+TZ,🇹🇿 Tanzania,Microsoft,External,8
+TZ,🇹🇿 Tanzania,Other,Local,183
+TZ,🇹🇿 Tanzania,Other,External,258
+TZ,🇹🇿 Tanzania,Reflectednetworks,External,2
+TH,🇹🇭 Thailand,Akamai,Local,69
+TH,🇹🇭 Thailand,Alibaba,External,10
+TH,🇹🇭 Thailand,Amazon,Regional,61
+TH,🇹🇭 Thailand,Bunnycdn,Regional,3
+TH,🇹🇭 Thailand,Cdn77,Regional,8
+TH,🇹🇭 Thailand,Cloudflare,Regional,604
+TH,🇹🇭 Thailand,Facebook,External,6
+TH,🇹🇭 Thailand,Fastly,Local,5
+TH,🇹🇭 Thailand,Microsoft,Local,9
+TH,🇹🇭 Thailand,Other,Local,85
+TH,🇹🇭 Thailand,Other,External,131
+TH,🇹🇭 Thailand,Reflectednetworks,Regional,4
+TL,🇹🇱 Timor-Leste,Other,Local,32
+TL,🇹🇱 Timor-Leste,Other,External,937
+TG,🇹🇬 Togo,Akamai,Local,87
+TG,🇹🇬 Togo,Alibaba,External,3
+TG,🇹🇬 Togo,Amazon,External,93
+TG,🇹🇬 Togo,Bunnycdn,External,3
+TG,🇹🇬 Togo,Cdn77,External,9
+TG,🇹🇬 Togo,Cloudflare,Regional,393
+TG,🇹🇬 Togo,Facebook,External,10
+TG,🇹🇬 Togo,Fastly,Regional,36
+TG,🇹🇬 Togo,Microsoft,External,16
+TG,🇹🇬 Togo,Other,Local,26
+TG,🇹🇬 Togo,Other,External,295
+TG,🇹🇬 Togo,Reflectednetworks,External,8
+TO,🇹🇴 Tonga,Other,Local,9
+TO,🇹🇴 Tonga,Other,External,585
+TT,🇹🇹 Trinidad and Tobago,Akamai,Local,86
+TT,🇹🇹 Trinidad and Tobago,Alibaba,External,1
+TT,🇹🇹 Trinidad and Tobago,Amazon,External,102
+TT,🇹🇹 Trinidad and Tobago,Bunnycdn,External,5
+TT,🇹🇹 Trinidad and Tobago,Cdn77,External,8
+TT,🇹🇹 Trinidad and Tobago,Cloudflare,Local,181
+TT,🇹🇹 Trinidad and Tobago,Cloudflare,External,243
+TT,🇹🇹 Trinidad and Tobago,Facebook,External,9
+TT,🇹🇹 Trinidad and Tobago,Fastly,Regional,9
+TT,🇹🇹 Trinidad and Tobago,Fastly,External,31
+TT,🇹🇹 Trinidad and Tobago,Microsoft,External,30
+TT,🇹🇹 Trinidad and Tobago,Other,Local,41
+TT,🇹🇹 Trinidad and Tobago,Other,External,237
+TT,🇹🇹 Trinidad and Tobago,Reflectednetworks,External,9
+TN,🇹🇳 Tunisia,Akamai,Local,42
+TN,🇹🇳 Tunisia,Amazon,External,71
+TN,🇹🇳 Tunisia,Bunnycdn,External,3
+TN,🇹🇳 Tunisia,Cdn77,External,13
+TN,🇹🇳 Tunisia,Cloudflare,External,476
+TN,🇹🇳 Tunisia,Facebook,External,10
+TN,🇹🇳 Tunisia,Fastly,External,14
+TN,🇹🇳 Tunisia,Microsoft,External,13
+TN,🇹🇳 Tunisia,Other,Local,98
+TN,🇹🇳 Tunisia,Other,External,240
+TN,🇹🇳 Tunisia,Reflectednetworks,External,11
+TR,🇹🇷 Türkiye,Akamai,Local,55
+TR,🇹🇷 Türkiye,Amazon,External,79
+TR,🇹🇷 Türkiye,Bunnycdn,External,1
+TR,🇹🇷 Türkiye,Cdn77,External,3
+TR,🇹🇷 Türkiye,Cloudflare,Local,337
+TR,🇹🇷 Türkiye,Cloudflare,External,118
+TR,🇹🇷 Türkiye,Facebook,External,9
+TR,🇹🇷 Türkiye,Fastly,External,14
+TR,🇹🇷 Türkiye,Medianova,External,4
+TR,🇹🇷 Türkiye,Microsoft,Local,8
+TR,🇹🇷 Türkiye,Other,Local,226
+TR,🇹🇷 Türkiye,Other,External,123
+TR,🇹🇷 Türkiye,Reflectednetworks,External,4
+TM,🇹🇲 Turkmenistan,Other,Local,84
+TM,🇹🇲 Turkmenistan,Other,External,911
+TC,🇹🇨 Turks and Caicos Islands,Akamai,External,175
+TC,🇹🇨 Turks and Caicos Islands,Amazon,External,148
+TC,🇹🇨 Turks and Caicos Islands,Bunnycdn,External,2
+TC,🇹🇨 Turks and Caicos Islands,Cdn77,External,7
+TC,🇹🇨 Turks and Caicos Islands,Cloudflare,External,296
+TC,🇹🇨 Turks and Caicos Islands,Facebook,External,9
+TC,🇹🇨 Turks and Caicos Islands,Fastly,External,74
+TC,🇹🇨 Turks and Caicos Islands,Microsoft,External,34
+TC,🇹🇨 Turks and Caicos Islands,Other,Local,2
+TC,🇹🇨 Turks and Caicos Islands,Other,External,238
+TC,🇹🇨 Turks and Caicos Islands,Reflectednetworks,External,6
+UG,🇺🇬 Uganda,Akamai,Local,45
+UG,🇺🇬 Uganda,Alibaba,External,1
+UG,🇺🇬 Uganda,Amazon,External,101
+UG,🇺🇬 Uganda,Cdn77,External,8
+UG,🇺🇬 Uganda,Cloudflare,Local,404
+UG,🇺🇬 Uganda,Fastly,Regional,23
+UG,🇺🇬 Uganda,Microsoft,External,17
+UG,🇺🇬 Uganda,Other,Local,96
+UG,🇺🇬 Uganda,Other,External,285
+UG,🇺🇬 Uganda,Reflectednetworks,External,3
+UA,🇺🇦 Ukraine,Akamai,Local,35
+UA,🇺🇦 Ukraine,Amazon,External,37
+UA,🇺🇦 Ukraine,Bunnycdn,External,3
+UA,🇺🇦 Ukraine,Cdn77,External,2
+UA,🇺🇦 Ukraine,Cloudflare,Regional,35
+UA,🇺🇦 Ukraine,Cloudflare,External,457
+UA,🇺🇦 Ukraine,Facebook,External,7
+UA,🇺🇦 Ukraine,Fastly,Regional,2
+UA,🇺🇦 Ukraine,Fastly,External,11
+UA,🇺🇦 Ukraine,Microsoft,External,7
+UA,🇺🇦 Ukraine,Netflix,Local,1
+UA,🇺🇦 Ukraine,Other,Local,84
+UA,🇺🇦 Ukraine,Other,External,311
+UA,🇺🇦 Ukraine,Reflectednetworks,External,4
+AE,🇦🇪 United Arab Emirates,Akamai,Local,94
+AE,🇦🇪 United Arab Emirates,Amazon,External,87
+AE,🇦🇪 United Arab Emirates,Bunnycdn,External,1
+AE,🇦🇪 United Arab Emirates,Cdn77,External,6
+AE,🇦🇪 United Arab Emirates,Cloudflare,Local,497
+AE,🇦🇪 United Arab Emirates,Facebook,External,9
+AE,🇦🇪 United Arab Emirates,Fastly,Local,27
+AE,🇦🇪 United Arab Emirates,Microsoft,Local,25
+AE,🇦🇪 United Arab Emirates,Other,Local,78
+AE,🇦🇪 United Arab Emirates,Other,External,162
+AE,🇦🇪 United Arab Emirates,Reflectednetworks,External,8
+GB,🇬🇧 United Kingdom,Akamai,Local,136
+GB,🇬🇧 United Kingdom,Amazon,Local,125
+GB,🇬🇧 United Kingdom,Amazon,External,55
+GB,🇬🇧 United Kingdom,Bunnycdn,Local,1
+GB,🇬🇧 United Kingdom,Cdn77,Local,3
+GB,🇬🇧 United Kingdom,Cloudflare,Local,376
+GB,🇬🇧 United Kingdom,Facebook,External,6
+GB,🇬🇧 United Kingdom,Fastly,Local,69
+GB,🇬🇧 United Kingdom,Microsoft,Local,40
+GB,🇬🇧 United Kingdom,Other,Local,58
+GB,🇬🇧 United Kingdom,Other,External,123
+GB,🇬🇧 United Kingdom,Reflectednetworks,Local,6
+GB,🇬🇧 United Kingdom,Wordpress,Local,1
+US,🇺🇸 United States of America,Akamai,Local,208
+US,🇺🇸 United States of America,Amazon,Local,192
+US,🇺🇸 United States of America,Bunnycdn,Local,2
+US,🇺🇸 United States of America,Cdn77,Local,4
+US,🇺🇸 United States of America,Cloudflare,Local,304
+US,🇺🇸 United States of America,Facebook,External,7
+US,🇺🇸 United States of America,Fastly,Local,78
+US,🇺🇸 United States of America,Microsoft,Local,19
+US,🇺🇸 United States of America,Other,Local,139
+US,🇺🇸 United States of America,Other,External,37
+US,🇺🇸 United States of America,Reflectednetworks,Local,8
+UY,🇺🇾 Uruguay,Akamai,Local,108
+UY,🇺🇾 Uruguay,Amazon,External,114
+UY,🇺🇾 Uruguay,Bunnycdn,External,3
+UY,🇺🇾 Uruguay,Cdn77,External,8
+UY,🇺🇾 Uruguay,Cloudflare,Regional,270
+UY,🇺🇾 Uruguay,Facebook,External,10
+UY,🇺🇾 Uruguay,Fastly,Regional,41
+UY,🇺🇾 Uruguay,Microsoft,External,26
+UY,🇺🇾 Uruguay,Other,Local,203
+UY,🇺🇾 Uruguay,Other,External,198
+UY,🇺🇾 Uruguay,Reflectednetworks,External,6
+UZ,🇺🇿 Uzbekistan,Akamai,External,20
+UZ,🇺🇿 Uzbekistan,Alibaba,External,1
+UZ,🇺🇿 Uzbekistan,Amazon,External,34
+UZ,🇺🇿 Uzbekistan,Bunnycdn,External,3
+UZ,🇺🇿 Uzbekistan,Cdn77,External,5
+UZ,🇺🇿 Uzbekistan,Cloudflare,External,228
+UZ,🇺🇿 Uzbekistan,Facebook,External,5
+UZ,🇺🇿 Uzbekistan,Fastly,External,13
+UZ,🇺🇿 Uzbekistan,Microsoft,External,4
+UZ,🇺🇿 Uzbekistan,Other,Local,251
+UZ,🇺🇿 Uzbekistan,Other,External,418
+UZ,🇺🇿 Uzbekistan,Reflectednetworks,External,6
+VU,🇻🇺 Vanuatu,Other,Local,21
+VU,🇻🇺 Vanuatu,Other,External,684
+VE,🇻🇪 Venezuela,Akamai,Local,58
+VE,🇻🇪 Venezuela,Alibaba,External,1
+VE,🇻🇪 Venezuela,Amazon,External,89
+VE,🇻🇪 Venezuela,Bunnycdn,External,2
+VE,🇻🇪 Venezuela,Cdn77,External,6
+VE,🇻🇪 Venezuela,Cloudflare,Regional,63
+VE,🇻🇪 Venezuela,Cloudflare,External,346
+VE,🇻🇪 Venezuela,Facebook,External,8
+VE,🇻🇪 Venezuela,Fastly,Regional,14
+VE,🇻🇪 Venezuela,Fastly,External,24
+VE,🇻🇪 Venezuela,Microsoft,External,16
+VE,🇻🇪 Venezuela,Other,Local,74
+VE,🇻🇪 Venezuela,Other,External,278
+VE,🇻🇪 Venezuela,Reflectednetworks,External,7
+VN,🇻🇳 Vietnam,Akamai,Local,22
+VN,🇻🇳 Vietnam,Alibaba,External,10
+VN,🇻🇳 Vietnam,Amazon,Regional,81
+VN,🇻🇳 Vietnam,Bunnycdn,Regional,1
+VN,🇻🇳 Vietnam,Cdn77,Regional,2
+VN,🇻🇳 Vietnam,Cdn77,External,1
+VN,🇻🇳 Vietnam,Cloudflare,Regional,236
+VN,🇻🇳 Vietnam,Cloudflare,External,298
+VN,🇻🇳 Vietnam,Facebook,External,8
+VN,🇻🇳 Vietnam,Fastly,Regional,5
+VN,🇻🇳 Vietnam,Fastly,External,3
+VN,🇻🇳 Vietnam,Microsoft,Local,4
+VN,🇻🇳 Vietnam,Other,Local,184
+VN,🇻🇳 Vietnam,Other,External,108
+VN,🇻🇳 Vietnam,Reflectednetworks,Regional,3
+VG,🇻🇬 Virgin Islands (British),Akamai,External,132
+VG,🇻🇬 Virgin Islands (British),Amazon,External,142
+VG,🇻🇬 Virgin Islands (British),Bunnycdn,External,2
+VG,🇻🇬 Virgin Islands (British),Cdn77,External,8
+VG,🇻🇬 Virgin Islands (British),Cloudflare,External,285
+VG,🇻🇬 Virgin Islands (British),Facebook,External,8
+VG,🇻🇬 Virgin Islands (British),Fastly,External,76
+VG,🇻🇬 Virgin Islands (British),Microsoft,External,27
+VG,🇻🇬 Virgin Islands (British),Other,Local,5
+VG,🇻🇬 Virgin Islands (British),Other,External,232
+VG,🇻🇬 Virgin Islands (British),Reflectednetworks,External,10
+VI,🇻🇮 Virgin Islands (U.S.),Akamai,External,189
+VI,🇻🇮 Virgin Islands (U.S.),Amazon,External,162
+VI,🇻🇮 Virgin Islands (U.S.),Bunnycdn,External,2
+VI,🇻🇮 Virgin Islands (U.S.),Cdn77,External,7
+VI,🇻🇮 Virgin Islands (U.S.),Cloudflare,External,290
+VI,🇻🇮 Virgin Islands (U.S.),Facebook,External,8
+VI,🇻🇮 Virgin Islands (U.S.),Fastly,External,81
+VI,🇻🇮 Virgin Islands (U.S.),Microsoft,External,28
+VI,🇻🇮 Virgin Islands (U.S.),Other,Local,4
+VI,🇻🇮 Virgin Islands (U.S.),Other,External,218
+VI,🇻🇮 Virgin Islands (U.S.),Reflectednetworks,External,6
+YE,🇾🇪 Yemen,Other,Local,22
+YE,🇾🇪 Yemen,Other,External,756
+ZM,🇿🇲 Zambia,Akamai,Local,47
+ZM,🇿🇲 Zambia,Alibaba,External,5
+ZM,🇿🇲 Zambia,Amazon,External,117
+ZM,🇿🇲 Zambia,Bunnycdn,External,1
+ZM,🇿🇲 Zambia,Cdn77,External,8
+ZM,🇿🇲 Zambia,Cloudflare,Local,157
+ZM,🇿🇲 Zambia,Cloudflare,Regional,240
+ZM,🇿🇲 Zambia,Facebook,External,10
+ZM,🇿🇲 Zambia,Fastly,Regional,28
+ZM,🇿🇲 Zambia,Microsoft,External,19
+ZM,🇿🇲 Zambia,Other,Local,90
+ZM,🇿🇲 Zambia,Other,External,261
+ZM,🇿🇲 Zambia,Reflectednetworks,External,5
+ZW,🇿🇼 Zimbabwe,Akamai,External,79
+ZW,🇿🇼 Zimbabwe,Alibaba,External,1
+ZW,🇿🇼 Zimbabwe,Amazon,External,114
+ZW,🇿🇼 Zimbabwe,Bunnycdn,External,1
+ZW,🇿🇼 Zimbabwe,Cdn77,External,6
+ZW,🇿🇼 Zimbabwe,Cloudflare,Regional,428
+ZW,🇿🇼 Zimbabwe,Facebook,External,8
+ZW,🇿🇼 Zimbabwe,Fastly,Regional,34
+ZW,🇿🇼 Zimbabwe,Microsoft,External,27
+ZW,🇿🇼 Zimbabwe,Netflix,Regional,1
+ZW,🇿🇼 Zimbabwe,Other,Local,63
+ZW,🇿🇼 Zimbabwe,Other,External,222
+ZW,🇿🇼 Zimbabwe,Reflectednetworks,External,3
